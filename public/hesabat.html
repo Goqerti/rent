@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <title>Maşın Hesabatı</title>
+    <link rel="stylesheet" href="/public/common.css">
+</head>
+<body>
+<div id="nav-placeholder"></div>
+
+<div class="container">
+    <div class="card">
+        <h2>Maşın üzrə hesabat</h2>
+
+        <div class="form-grid">
+            <div class="form-group">
+                <label for="carSelect">Maşın</label>
+                <select id="carSelect"></select>
+            </div>
+
+            <div class="form-group">
+                <label for="from">Başlanğıc tarix</label>
+                <input type="date" id="from">
+            </div>
+
+            <div class="form-group">
+                <label for="to">Son tarix</label>
+                <input type="date" id="to">
+            </div>
+
+            <div class="form-group full-width">
+                <button class="btn btn-primary" id="btnLoad">Hesabatı gətir</button>
+            </div>
+        </div>
+
+        <div id="summary" style="margin-top:20px;"></div>
+
+        <h3>Rezervasiyalar</h3>
+        <table class="table" id="resTable">
+            <thead>
+                <tr>
+                    <th>Başlanğıc</th>
+                    <th>Bitiş</th>
+                    <th>Günlər üzrə gəlir</th>
+                    <th>Ödənilmiş</th>
+                    <th>Borcu</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+        <h3>Maşın Xərcləri</h3>
+        <table class="table" id="expTable">
+            <thead>
+                <tr>
+                    <th>Tarix</th>
+                    <th>Təsvir</th>
+                    <th>Məbləğ</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+        <h3>Cərimələr</h3>
+        <table class="table" id="fineTable">
+            <thead>
+                <tr>
+                    <th>Tarix</th>
+                    <th>Məbləğ</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+    </div>
+</div>
+
+<script src="/public/nav.js"></script>
+<script src="/public/hesabat.js"></script>
+</body>
+</html>

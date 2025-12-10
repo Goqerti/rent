@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rezervasiya</title>
+  
+  <link rel="stylesheet" href="/public/common.css" />
+  
+  <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dayjs@1/plugin/utc.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dayjs@1/plugin/timezone.js"></script>
+  
+  <script>
+    (function checkAuthGuard(){
+      const token = localStorage.getItem('token');
+      if(!token){ window.location.replace('/public/login.html'); }
+    })();
+  </script>
+  
+  <style>
+    /* Ödəniş statusuna görə cədvəl sətrini rəngləndirmək üçün */
+    .table .unpaid td:first-child { border-left: 4px solid var(--danger); }
+    .table .paid td:first-child { border-left: 4px solid var(--success); }
+    .table .partially-paid td:first-child { border-left: 4px solid var(--warning); }
+    .table tr.overdue { background-color: #fff1f1; }
+    .table tr.overdue td:first-child { border-left-color: var(--danger); }
+
+    /* V2 Təqvim Stilləri (Modal daxilində) */
+    .calendar-modal .sheet { 
+        max-width: 900px; 
+        width: 95%; 
+    }
+    .calendar-page-layout { 
+        display: flex; 
+        gap: 20px; 
+        flex-wrap: wrap; 
+    }
+    .calendar-main { 
+        flex-grow: 1; 
+        min-width: 400px; 
+    }
+    .calendar-sidebar { 
+        width: 320px; 
+        flex-shrink: 0;
+        display: none; /* Standart olaraq gizlidir */
+    }
+    .calendar-sidebar.show {
+        display: block;
+    }
+    .calendar-sidebar .card { 
+        position: sticky; 
+        top: 20px; 
+        padding: 15px;
+    }
+    .calendar-grid { 
+        display: grid; 
+        grid-template-columns: repeat(7, 1fr); 
+        border: 1px solid var(--border); 
+        border-radius: var(--radius); 
+        overflow: hidden; 
+    }
+    .calendar-header { 
+        text-align: center; 
+        padding: 10px; 
+        background-color: #f8f9fa; 
+        font-weight: 600; 
+        border-bottom: 1px solid var(--border); 
+        font-size: 0.9em;
+    }
+    .day-cell { 
+        padding: 4px; 
+        min-height: 90px; 
+        border: 1px solid var(--border); 
+        background-color: #fff; 
+        position: relative; 
+        transition: background-color 0.2s; 
+    }
+    .day-cell.other-month { background-color: #f9fafb; }
+
+    /* YENİ ƏLAVƏ: Boş günləri kliklənəbilən etmək üçün stil */
+    .day-cell.available-to-add {
+        background-color: #f8f9fa;
+        cursor: pointer;
+    }
+    .day-cell.available-to-add:hover {
+        background-color: #f1f3f5;
+        box-shadow: 0 0 0 1px var(--border) inset;
+    }
+
+    .day-cell.selected { 
+        background-color: #eaf2ff; 
+        box-shadow: 0 0 0 2px var(--primary) inset; 
+    }
+    .day-cell .day-number { font-weight: 600; font-size: 0.9em; }
+    .day-cell .day-price { font-size: 0.8em; font-weight: 500; color: var(--muted); }
+    .day-cell .day-status-dot { 
+        width: 10px; 
+        height: 10px; 
+        border-radius: 50%; 
+        position: absolute; 
+        bottom: 8px; 
+        right: 8px; 
+        border: 1px solid rgba(0,0,0,0.1); 
+    }
+    /* Rəng kodları */
+    .status-paid { background-color: var(--success); }
+    .status-unpaid { background-color: var(--danger); }
+    .status-partial { background-color: var(--warning); }
+    .status-free { background-color: #f0f6ff; }
+    .dot-paid { background-color: var(--success); }
+    .dot-unpaid { background-color: var(--danger); }
+    .dot-partial { background-color: var(--warning); }
+    .dot-free { background-color: #e4e9f5; }
+    
+    .month-navigation { 
+        display: flex; 
+        justify-content: space-between; 
+        align-items: center; 
+        margin-bottom: 20px; 
+    }
+    .legend { 
+        display: flex; 
+        flex-wrap: wrap; 
+        gap: 15px; 
+        margin-bottom: 20px; 
+    }
+    .legend-item { 
+        display: flex; 
+        align-items: center; 
+        gap: 8px; 
+        font-size: 0.9em; 
+    }
+    .legend-color { 
+        width: 15px; 
+        height: 15px; 
+        border-radius: 4px; 
+    }
+    .blacklist-check { 
+        display: flex; 
+        align-items: center; 
+        gap: 10px; 
+        margin: 15px 0; 
+    }
+    .blacklist-check input { 
+        width: auto; 
+        margin: 0; 
+    }
+  </style>
+</head>
+<body>
+  <div id="nav-placeholder"></div>
+  <div class="container">
+    
+    <div id="reservations-table-view">
+        <div class="card">
+          <h2>Rezervasiya et <span class="badge">Yeni</span></h2>
+          <div class="row">
+            
+            <div>
+              <label>Maşın Axtar (Yalnız boşda olanlar)</label>
+              <input id="carSearchInput" placeholder="Marka, model və ya nömrə..." />
+              <select id="rCar" style="margin-top:8px"></select>
+            </div>
+            
+            <div>
+              <label>Müştəri Axtar</label>
+              <input id="customerSearchInput" placeholder="Ad, soyad və ya nömrə..." />
+              <select id="rCustomer" style="margin-top:8px"></select>
+              <div class="helper">
+                Axtarışa başladıqda siyahı avtomatik filterlənəcək.
+                <button id="btnNewCustomer" class="btn btn-sm" style="margin-left: 10px;">Yeni Müştəri</button>
+              </div>
+            </div>
+
+          </div>
+          <div class="row">
+            <div><label>Başlama tarixi</label><input id="rStart" type="datetime-local" /></div>
+            <div><label>Bitmə tarixi</label><input id="rEnd" type="datetime-local" /></div>
+          </div>
+          <div class="row">
+            <div><label>Günlük qiymət (AZN) — opsional</label><input id="rUnitPrice" type="number" step="0.01" placeholder="Standart qiymət üçün boş saxlayın" /></div>
+            <div><label>Depozit (AZN)</label><input id="rDeposit" type="number" step="0.01" value="0" /></div>
+          </div>
+          <div class="row">
+            <div><label>İstiqamət</label><input id="rDestination" placeholder="Məs: Bakı → Quba" /></div>
+            <div><label>Endirim (%)</label><input id="rDiscount" type="number" step="1" value="0" /></div>
+          </div>
+          <div class="row">
+            <div><label>Cəmi</label><input id="rTotal" type="text" disabled /></div>
+          </div>
+          <div id="conflictWarn" class="helper" style="margin:6px 0 10px; font-weight: bold;"></div>
+          <button class="btn btn-primary" id="btnCreate">Rezerv et</button>
+          
+          <div class="divider"></div>
+          <h3>Mövcud Rezervasiyalar</h3>
+          <table class="table" id="reservationsTbl"></table>
+        </div>
+    </div>
+  </div>
+
+  <div class="modal" id="custModal">
+    <div class="sheet">
+      <h3>Yeni müştəri</h3>
+      <div class="row">
+        <div><label>Ad</label><input id="mFirst" /></div>
+        <div><label>Soyad</label><input id="mLast" /></div>
+      </div>
+      <div class="row">
+        <div><label>Telefon</label><input id="mPhone" /></div>
+        <div><label>Email</label><input id="mEmail" /></div>
+      </div>
+      <div><label>Şəxsiyyət vəsiqəsi</label><input id="mIdCard" type="file" /></div>
+      <div class="divider"></div>
+      <div style="display:flex; gap:8px; justify-content:flex-end">
+        <button class="btn" id="mClose">Bağla</button>
+        <button class="btn btn-success" id="mSave">Əlavə et</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal" id="resModal">
+    <div class="sheet">
+      <h3>Rezervi Redaktə et (Əsas Məlumatlar)</h3>
+      <div class="row">
+        <div><label>Status</label>
+          <select id="eStatus">
+            <option value="BOOKED">Brondadır</option>
+            <option value="COMPLETED">Bitdi</option>
+            <option value="CANCELED">Ləğv edilib</option>
+          </select>
+        </div>
+        <div><label>Depozit (AZN)</label><input type="number" id="eDeposit" step="0.01"></div>
+      </div>
+      <div>
+        <label>Ümumi Qeydlər</label>
+        <textarea id="eNotes" rows="3" placeholder="Rezervasiya haqqında ümumi qeyd..."></textarea>
+      </div>
+      <div class="divider"></div>
+      <div style="display:flex;gap:8px;justify-content:flex-end">
+        <button class="btn" id="resClose">Bağla</button>
+        <button class="btn btn-success" id="resSave">Yadda saxla</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal calendar-modal" id="calendarV2Modal">
+    <div class="sheet">
+        <div class="calendar-page-layout">
+            <div class="calendar-main">
+                <div class="month-navigation">
+                    <button id="prevMonthBtn" class="btn">‹ Əvvəlki Ay</button>
+                    <h2 id="currentMonthYear"></h2>
+                    <button id="nextMonthBtn" class="btn">Növbəti Ay ›</button>
+                </div>
+                <div class="legend">
+                    <div class="legend-item"><div class="legend-color status-paid"></div> Tam Ödənilib</div>
+                    <div class="legend-item"><div class="legend-color status-unpaid"></div> Ödənməyib</div>
+                    <div class="legend-item"><div class="legend-color status-partial"></div> Qismən Ödənilib</div>
+                    <div class="legend-item"><div class="legend-color status-free"></div> Pulsuz</div>
+                </div>
+                <div class="calendar-grid">
+                    <div class="calendar-header">B.E.</div>
+                    <div class="calendar-header">Ç.A.</div>
+                    <div class="calendar-header">Ç.</div>
+                    <div class="calendar-header">C.A.</div>
+                    <div class="calendar-header">C.</div>
+                    <div class="calendar-header">Ş.</div>
+                    <div class="calendar-header">B.</div>
+                    </div>
+            </div>
+            <div class="calendar-sidebar" id="sidePanel">
+                <div class="card">
+                    <h3 id="panelTitle">Gün Detalları</h3>
+                    <p id="panelHelpText" class="helper">Dəyişiklik etmək üçün təqvimdən bir və ya bir neçə gün seçin.</p>
+                    
+                    <form id="dayEditorForm">
+                        <div class="form-group">
+                            <label for="dayStatus">Status</label>
+                            <select id="dayStatus">
+                                <option value="unpaid">Ödənməyib</option>
+                                <option value="paid">Tam Ödənilib</option>
+                                <option value="partial">Qismən Ödənilib</option>
+                                <option value="free">Pulsuz</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="dayPrice">Qiymət (AZN)</label>
+                            <input type="number" id="dayPrice" step="0.01">
+                        </div>
+                        <div class="form-group">
+                            <label for="dayPaidAmount">Ödənilən Məbləğ (AZN)</label>
+                            <input type="number" id="dayPaidAmount" step="0.01">
+                        </div>
+                        
+                        <div class="form-group" id="dayRemainingWrapper" style="display: none; background-color: #f8f9fa; padding: 8px; border-radius: var(--radius);">
+                            <label style="font-size: 0.9em; color: var(--muted);">Günün Qalıq Borcu:</label>
+                            <p id="dayRemainingEl" style="font-weight: bold; color: var(--danger); font-size: 1.2em; margin: 0;">0 AZN</p>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="dayNotes">Günün Qeydi</label>
+                            <textarea id="dayNotes" rows="3"></textarea>
+                        </div>
+                        <div class="form-group" id="multiSelectOptions" style="display:none;">
+                            <input type="checkbox" id="applyToAllSelected" style="width: auto;">
+                            <label for="applyToAllSelected" style="display: inline; margin-left: 10px; font-weight: bold;">Bütün seçilmiş günlərə tətbiq et</label>
+                        </div>
+                        <button type="submit" class="btn btn-success" style="width: 100%;">Yadda Saxla</button>
+                    </form>
+                    
+                    <div id="summarySection" style="margin-top: 20px;">
+                        <div class="divider"></div>
+                        <h4 id="summaryCar"></h4>
+                        <p id="summaryCustomer" style="color: var(--muted); margin-bottom: 10px;"></p>
+                        <p>Ümumi Gözlənilən: <strong id="summaryExpected">0 AZN</strong></p>
+                        <p>Ümumi Ödənilən: <strong id="summaryPaid">0 AZN</strong></p>
+                        <p style="color: var(--danger); font-weight: bold; font-size: 1.1em;">Qalıq Borc: <strong id="summaryRemaining">0 AZN</strong></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="btn" id="closeCalendarModalBtn" style="margin-top: 15px;">Təqvimdən Çıx</button>
+    </div>
+  </div>
+
+  <script src="/public/nav.js"></script>
+  <script src="/public/reservations.js"></script>
+</body>
+</html>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hesabatlar</title>
+    <link rel="stylesheet" href="/public/common.css">
+    <script>
+        (function() { if (!localStorage.getItem('token')) window.location.replace('/public/login.html'); })();
+    </script>
+    <style>
+        /* --- Tab Stilləri --- */
+        .tabs {
+            display: flex;
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        .tab-link {
+            padding: 10px 20px;
+            cursor: pointer;
+            border: none;
+            background-color: transparent;
+            font-size: 1em;
+            font-weight: 500;
+            color: var(--muted);
+            border-bottom: 2px solid transparent;
+            margin-bottom: -1px; /* Alt xətti konteynerin xətti ilə birləşdirir */
+        }
+        .tab-link.active {
+            color: var(--primary);
+            border-bottom: 2px solid var(--primary);
+            font-weight: 600;
+        }
+        .tab-content {
+            display: none; /* Bütün tab məzmunları standart olaraq gizlidir */
+        }
+        .tab-content.active {
+            display: block; /* Yalnız aktiv olan göstərilir */
+        }
+        /* Statistik kartlar üçün stil */
+        .stats-row { 
+            display: flex; 
+            gap: 20px; 
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        .stat-card { 
+            flex-grow: 1; 
+            background: #fff; 
+            border: 1px solid var(--border); 
+            border-radius: 12px; 
+            padding: 20px; 
+            text-align: center; 
+            box-shadow: 0 2px 10px rgba(6,24,44,.04); 
+        }
+        .stat-card h3 { 
+            margin: 0 0 10px; 
+            font-size: 1em; 
+            color: var(--muted); 
+        }
+        .stat-card .stat-number { 
+            font-size: 2em; 
+            font-weight: 700; 
+            color: var(--primary); 
+        }
+    </style>
+</head>
+<body>
+    <div id="nav-placeholder"></div>
+    <div class="container">
+        <div class="card">
+            <h2>Statistika</h2>
+            
+            <div class="tabs">
+              <button class="tab-link active" data-tab="popularity">Maşın Populyarlığı</button>
+              <button class="tab-link" data-tab="profitability">Maşın Mənfəəti</button>
+              <button class="tab-link" data-tab="customers">Ən Yaxşı Müştərilər</button>
+              <button class="tab-link" data-tab="occupancy">Maşın Doluluğu</button>
+              <button class="tab-link" data-tab="general-stats">Ümumi Statistika</button>
+            </div>
+
+            <div id="popularity" class="tab-content active">
+              <h3>Maşınların Rezervasiya Sayına Görə Populyarlığı</h3>
+              <div style="width: 100%; max-width: 600px; margin: 20px auto;">
+                  <canvas id="carPopularityChart"></canvas>
+              </div>
+            </div>
+
+            <div id="profitability" class="tab-content">
+              <h3>Hər Maşın üzrə Mənfəət Hesabatı</h3>
+              <p class="helper">Bu hesabat yalnız statusu "Bitdi" (Completed) olan rezervasiyalar əsasında hesablanır.</p>
+              <table class="table" id="profitabilityTable">
+                <thead><tr><th>Maşın</th><th>Ümumi Gəlir</th><th>Ümumi Xərc</th><th>Xalis Mənfəət</th></tr></thead>
+                <tbody></tbody>
+              </table>
+            </div>
+
+            <div id="customers" class="tab-content">
+              <h3>Ən Yaxşı Müştərilər (Gətirdiyi Gəlirə Görə)</h3>
+               <p class="helper">Bu hesabat yalnız statusu "Bitdi" (Completed) olan rezervasiyalar əsasında hesablanır.</p>
+              <table class="table" id="bestCustomersTable">
+                <thead><tr><th>Müştəri</th><th>Rezervasiya Sayı</th><th>Ümumi Məbləğ</th></tr></thead>
+                <tbody></tbody>
+              </table>
+            </div>
+
+            <div id="occupancy" class="tab-content">
+              <h3>Maşınların Doluluq Faizi (Cari Ay)</h3>
+              <p class="helper">Hər maşının bu ay ərzində neçə gün və neçə faiz icarədə olduğunu göstərir.</p>
+              <table class="table" id="occupancyTable">
+                <thead><tr><th>Maşın</th><th>İcarədə Olduğu Gün</th><th>Doluluq</th></tr></thead>
+                <tbody></tbody>
+              </table>
+            </div>
+
+            <div id="general-stats" class="tab-content">
+              <h3>Ümumi Statistika</h3>
+              <div class="stats-row">
+                <div class="stat-card">
+                  <h3>Ortalama İcarə Müddəti</h3>
+                  <p class="stat-number" id="avgDuration">0 gün</p>
+                </div>
+              </div>
+              <h4>Gəlirlərin Marka Üzrə Bölgüsü</h4>
+              <p class="helper">Bu hesabat yalnız statusu "Bitdi" (Completed) olan rezervasiyalar əsasında hesablanır.</p>
+              <table class="table" id="revenueByBrandTable">
+                <thead><tr><th>Marka</th><th>Ümumi Gəlir</th></tr></thead>
+                <tbody></tbody>
+              </table>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+    <script src="/public/nav.js"></script>
+    <script src="/public/reports.js"></script>
+</body>
+</html>

@@ -1,0 +1,1006 @@
+node:internal/modules/cjs/loader:958
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/saidren1/rent/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:955:15)
+    at Module._load (node:internal/modules/cjs/loader:803:27)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/saidren1/rent/server.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/saidren1/rent/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v18.9.1
+node:internal/modules/cjs/loader:958
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/saidren1/rent/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:955:15)
+    at Module._load (node:internal/modules/cjs/loader:803:27)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/saidren1/rent/server.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/saidren1/rent/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v18.9.1
+node:internal/modules/cjs/loader:958
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/saidren1/rent/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:955:15)
+    at Module._load (node:internal/modules/cjs/loader:803:27)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/saidren1/rent/server.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/saidren1/rent/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v18.9.1
+node:internal/modules/cjs/loader:958
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/saidren1/rent/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:955:15)
+    at Module._load (node:internal/modules/cjs/loader:803:27)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/saidren1/rent/server.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/saidren1/rent/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v18.9.1
+node:internal/modules/cjs/loader:958
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/saidren1/rent/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:955:15)
+    at Module._load (node:internal/modules/cjs/loader:803:27)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/saidren1/rent/server.js:4:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/saidren1/rent/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v18.9.1
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası: request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+node:internal/modules/cjs/loader:958
+  throw err;
+  ^
+
+Error: Cannot find module 'node-cron'
+Require stack:
+- /home/saidren1/rent/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:955:15)
+    at Module._load (node:internal/modules/cjs/loader:803:27)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/saidren1/rent/server.js:15:14)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/saidren1/rent/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v18.9.1
+node:internal/modules/cjs/loader:958
+  throw err;
+  ^
+
+Error: Cannot find module 'node-cron'
+Require stack:
+- /home/saidren1/rent/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:955:15)
+    at Module._load (node:internal/modules/cjs/loader:803:27)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/saidren1/rent/server.js:15:14)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/saidren1/rent/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v18.9.1
+node:internal/modules/cjs/loader:958
+  throw err;
+  ^
+
+Error: Cannot find module 'node-cron'
+Require stack:
+- /home/saidren1/rent/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:955:15)
+    at Module._load (node:internal/modules/cjs/loader:803:27)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/saidren1/rent/server.js:15:14)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/saidren1/rent/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v18.9.1
+node:internal/modules/cjs/loader:958
+  throw err;
+  ^
+
+Error: Cannot find module 'node-cron'
+Require stack:
+- /home/saidren1/rent/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:955:15)
+    at Module._load (node:internal/modules/cjs/loader:803:27)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/saidren1/rent/server.js:15:14)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/saidren1/rent/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v18.9.1
+node:internal/modules/cjs/loader:958
+  throw err;
+  ^
+
+Error: Cannot find module 'node-cron'
+Require stack:
+- /home/saidren1/rent/server.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:955:15)
+    at Module._load (node:internal/modules/cjs/loader:803:27)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/saidren1/rent/server.js:15:14)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/saidren1/rent/server.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+
+Node.js v18.9.1
+Dashboard statistikası hesablanarkən xəta: TypeError: Cannot read properties of undefined (reading 'date')
+    at /home/saidren1/rent/server.js:1114:42
+    at Array.filter (<anonymous>)
+    at /home/saidren1/rent/server.js:1112:42
+    at Layer.handle [as handle_request] (/home/saidren1/rent/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/saidren1/rent/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/saidren1/rent/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/saidren1/rent/node_modules/express/lib/router/layer.js:95:5)
+    at /home/saidren1/rent/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/saidren1/rent/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/saidren1/rent/node_modules/express/lib/router/index.js:280:10)
+Köhnə V1 rezervasiyası tapıldı (tQHM4yUajDLB). V2 formasına çevrilir...
+Köhnə V1 rezervasiyası tapıldı (YINSbsWcxq2D). V2 formasına çevrilir...
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-10-31T20:00:03.887Z] [PID: 1692921] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat Nov 01 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-10-31T20:00:03.900Z] [PID: 1715604] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat Nov 01 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-02T20:00:04.775Z] [PID: 3059593] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Mon Nov 03 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-02T20:00:04.789Z] [PID: 3125874] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Mon Nov 03 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Serverə boş məlumat gəldi: [Object: null prototype] {
+  firstName: 'XALCANSATAN',
+  lastName: '',
+  phone: '',
+  email: ''
+}
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-03T20:00:04.477Z] [PID: 3059593] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Tue Nov 04 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-03T20:00:04.493Z] [PID: 3125874] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Tue Nov 04 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-04T20:00:03.974Z] [PID: 3125874] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Wed Nov 05 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-04T20:00:03.992Z] [PID: 3059593] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Wed Nov 05 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-06T20:00:01.593Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri Nov 07 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-06T20:00:01.594Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri Nov 07 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-07T20:00:04.127Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat Nov 08 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-07T20:00:04.126Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat Nov 08 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-08T20:00:04.321Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sun Nov 09 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-08T20:00:04.322Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sun Nov 09 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-09T20:00:03.819Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Mon Nov 10 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-09T20:00:03.827Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Mon Nov 10 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-10T20:00:04.667Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Tue Nov 11 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-10T20:00:04.668Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Tue Nov 11 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-11T20:00:03.793Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Wed Nov 12 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-11T20:00:03.796Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Wed Nov 12 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-12T20:00:04.301Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Thu Nov 13 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-12T20:00:04.304Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Thu Nov 13 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-13T20:00:04.454Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri Nov 14 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-13T20:00:04.481Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri Nov 14 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-14T20:00:04.031Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat Nov 15 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-14T20:00:04.037Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat Nov 15 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-15T20:00:03.851Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sun Nov 16 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-15T20:00:03.851Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sun Nov 16 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-16T20:00:04.519Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Mon Nov 17 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-16T20:00:04.524Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Mon Nov 17 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-17T20:00:03.213Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Tue Nov 18 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-17T20:00:03.216Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Tue Nov 18 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-18T20:00:05.089Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Wed Nov 19 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-18T20:00:05.094Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Wed Nov 19 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-19T20:00:03.553Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Thu Nov 20 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-19T20:00:03.559Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Thu Nov 20 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-20T20:00:04.414Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri Nov 21 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-20T20:00:04.439Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri Nov 21 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-21T20:00:03.896Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat Nov 22 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-21T20:00:03.903Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat Nov 22 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-22T20:00:04.277Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sun Nov 23 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-22T20:00:04.285Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sun Nov 23 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-23T20:00:04.217Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Mon Nov 24 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-23T20:00:04.225Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Mon Nov 24 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-24T20:00:03.825Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Tue Nov 25 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-24T20:00:03.845Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Tue Nov 25 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-25T20:00:02.787Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Wed Nov 26 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-25T20:00:02.788Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Wed Nov 26 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-26T20:00:06.044Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Thu Nov 27 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-26T20:00:06.051Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Thu Nov 27 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-27T20:00:03.250Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri Nov 28 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-27T20:00:03.266Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri Nov 28 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-28T20:00:04.595Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat Nov 29 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-28T20:00:04.608Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat Nov 29 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-28T20:00:04.988Z] [PID: 131510] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat Nov 29 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-29T20:00:03.843Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sun Nov 30 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-29T20:00:03.841Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sun Nov 30 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-29T20:00:03.841Z] [PID: 131510] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sun Nov 30 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-11-30T20:00:04.578Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Mon Dec 01 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-30T20:00:04.578Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Mon Dec 01 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-11-30T20:00:04.581Z] [PID: 131510] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Mon Dec 01 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-12-01T20:00:03.542Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Tue Dec 02 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-01T20:00:03.555Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Tue Dec 02 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-12-02T20:00:04.437Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Wed Dec 03 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-02T20:00:04.436Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Wed Dec 03 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-02T20:00:04.886Z] [PID: 3273064] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Wed Dec 03 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-02T20:00:04.886Z] [PID: 3024622] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Wed Dec 03 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-03T20:00:04.778Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Thu Dec 04 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-03T20:00:04.779Z] [PID: 3273064] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Thu Dec 04 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-03T20:00:04.779Z] [PID: 3024622] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Thu Dec 04 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-03T20:00:04.778Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Thu Dec 04 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-12-04T20:00:03.380Z] [PID: 3273064] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri Dec 05 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-04T20:00:03.378Z] [PID: 3024622] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri Dec 05 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-04T20:00:03.378Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri Dec 05 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-04T20:00:03.378Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Fri Dec 05 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-05T20:00:04.436Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat Dec 06 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-05T20:00:04.437Z] [PID: 3024622] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat Dec 06 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-05T20:00:04.437Z] [PID: 3273064] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat Dec 06 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-05T20:00:04.437Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sat Dec 06 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-06T20:00:04.628Z] [PID: 3273064] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sun Dec 07 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-06T20:00:04.637Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sun Dec 07 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-06T20:00:04.626Z] [PID: 3024622] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sun Dec 07 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-06T20:00:04.637Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Sun Dec 07 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+Telegram bildiriş xətası (Network/Fetch): request to https://api.telegram.org/bot8446126029:AAGd9xhLxCWnHthfiCCfTFyvtEqtT3h7MW4/sendMessage failed, reason: self signed certificate in certificate chain
+[2025-12-07T20:00:04.292Z] [PID: 3024622] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Mon Dec 08 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-07T20:00:04.292Z] [PID: 353156] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Mon Dec 08 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-07T20:00:04.299Z] [PID: 3273064] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Mon Dec 08 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.
+[2025-12-07T20:00:04.297Z] [PID: 352937] [32m[NODE-CRON][32m [33m[WARN][0m missed execution at Mon Dec 08 2025 00:00:00 GMT+0400 (Gulf Standard Time)! Possible blocking IO or high CPU user at the same process used by node-cron.

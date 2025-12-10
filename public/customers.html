@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rentacar CRM — Müştərilər</title>
+<link rel="stylesheet" href="/public/common.css">
+<script>
+    (function checkAuthGuard() {
+        if (!localStorage.getItem('token')) {
+            window.location.replace('/public/login.html');
+        }
+    })();
+</script>
+<style>
+  /* Sizin təqdim etdiyiniz dizayn üçün stillər (rentacar_crm_customers_ui.html-dən) */
+  :root{
+    --bg:#f6f9ff;
+    --panel:#ffffff;
+    --panel-2:#fdfdff;
+    --text:#0b1a33;
+    --muted:#4a5b78;
+    --muted-2:#8391a7;
+    --prima:#1e6fff;
+    --accent:#28c76f;
+    --danger:#ef4444;
+    --warn:#f59e0b;
+    --info:#76a9ff;
+    --border:#e4e9f5;
+    --chip:#eef4ff;
+    --green:#20c997;
+    --red:#ff4d4f;
+    --yellow:#f5a623;
+    --blue:#4098ff;
+  }
+  *{box-sizing:border-box}
+  /* body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial} */
+  .app{max-width:1220px;margin:24px auto;padding:0 16px}
+  header{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px}
+  .title{font-size:22px;font-weight:700;letter-spacing:.2px}
+  .bar{display:flex;gap:8px;flex-wrap:wrap}
+  .tag{background:var(--chip);border:1px solid var(--border);color:var(--muted);padding:8px 12px;border-radius:10px;font-size:13px;cursor:pointer;user-select:none}
+  .tag.active{border-color:var(--prima);color:var(--text);box-shadow:0 0 0 2px rgba(77,163,255,.2) inset; background: #fff;}
+  .panel{background:var(--panel);border:1px solid var(--border);border-radius:14px;box-shadow:0 6px 24px rgba(0,0,0,.08)}
+  .toolbar{display:grid;grid-template-columns:1fr auto auto;gap:8px;padding:12px;border-bottom:1px solid var(--border);align-items:center}
+  .search{position:relative}
+  .search input{width:100%;padding:12px 14px 12px 40px;border-radius:10px;border:1px solid var(--border);background:var(--panel-2);color:var(--text);outline:none}
+  .search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);opacity:.7}
+  .toolbar .btn{padding:10px 12px;border-radius:10px;border:1px solid var(--border);background:var(--panel-2);color:var(--text);font-size:13px;cursor:pointer}
+  .btn.primary{background:linear-gradient(180deg,#4da3ff,#2b78ff);border-color:#2b78ff; color: #fff;}
+  .btn.ghost{background:var(--chip)}
+  .btn:active{transform:translateY(1px)}
+  .grid{display:grid;grid-template-columns:2fr 1.2fr 1.6fr .9fr .9fr .8fr .7fr 60px;gap:0;border-bottom:1px solid var(--border);padding:12px 16px;font-size:13px;color:var(--muted)}
+  .row{display:grid;grid-template-columns:2fr 1.2fr 1.6fr .9fr .9fr .8fr .7fr 60px;gap:0;padding:14px 16px;border-bottom:1px solid var(--border);align-items:center}
+  .row:hover{background:rgba(64,152,255,.05);cursor:pointer}
+  .avatar{width:28px;height:28px;border-radius:50%;background:#dbe9ff;display:inline-grid;place-items:center;font-weight:700;color:#164fc9;margin-right:10px;font-size:12px}
+  .name{display:flex;align-items:center;gap:10px}
+  .mono{font-variant-numeric:tabular-nums}
+  .badge{display:inline-block;padding:4px 8px;border-radius:8px;background:var(--chip);border:1px solid var(--border);font-size:12px;color:var(--muted)}
+  .badge.ok{color:#00331e;border-color:#b6e9d8;background:rgba(32,201,151,.08)}
+  .badge.warn{color:#543806;border-color:#ffebc2;background:rgba(255,204,102,.08)}
+  .badge.err{color:#5e0f0f;border-color:#f8cccc;background:rgba(255,77,79,.08)}
+  .kpis{display:flex;gap:8px;flex-wrap:wrap}
+  .kpi{padding:8px 10px;border:1px dashed var(--border);border-radius:10px;background:var(--chip);font-size:12px;color:var(--muted)}
+  .table{overflow:auto;max-height:65vh}
+  .right-drawer{position:fixed;top:0;right:-520px;width:520px;height:100vh;background:var(--panel);border-left:1px solid var(--border);transition:right .28s ease;box-shadow:-10px 0 24px rgba(0,0,0,.1);display:flex;flex-direction:column; z-index: 2000;}
+  .right-drawer.open{right:0}
+  .drawer-head{padding:16px;border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:center}
+  .close{background:transparent;border:none;color:var(--muted);font-size:22px;cursor:pointer}
+  .drawer-body{padding:16px;overflow:auto}
+  .section{margin-bottom:16px}
+  .section h4{margin:0 0 8px 0;font-size:14px;color:#0b1a33}
+  .pill{padding:6px 10px;border-radius:999px;background:var(--chip);border:1px solid var(--border);font-size:12px;color:var(--muted)}
+  .list{display:grid;gap:8px}
+  .card-inner{border:1px solid var(--border);border-radius:12px;background:var(--panel-2);padding:10px}
+  .card-inner header{display:flex;justify-content:space-between;align-items:center}
+  .payline{display:flex;justify-content:space-between;font-size:12px;color:var(--muted);margin-top:6px}
+  .buttons{display:flex;gap:8px;flex-wrap:wrap}
+  .btn.small{font-size:12px;padding:8px 10px}
+  .tabs{display:flex;gap:6px;border-bottom:1px solid var(--border);padding:0 12px}
+  .tab{padding:10px 12px;font-size:13px;color:var(--muted);cursor:pointer;border-bottom:2px solid transparent}
+  .tab.active{color:var(--text);border-color:var(--prima)}
+  .empty{padding:24px;text-align:center;color:var(--muted)}
+  .modal-backdrop { position: fixed; inset: 0; background: rgba(11, 26, 51, .35); z-index: 1000; display: none; }
+  .modal-backdrop.open { display: block; }
+  @media(max-width:980px){
+    .grid,.row{grid-template-columns:1.8fr 1fr .8fr 70px}
+    .grid>:nth-child(3),.row>:nth-child(3),
+    .grid>:nth-child(4),.row>:nth-child(4),
+    .grid>:nth-child(5),.row>:nth-child(5)
+    {display:none}
+    .right-drawer{width:100vw; max-width: 420px;}
+    .toolbar { grid-template-columns: 1fr auto; }
+    .toolbar .kpis { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<div id="nav-placeholder"></div>
+
+<div class="app">
+  <header>
+    <div class="title">Müştərilər</div>
+    <div class="bar">
+      <div class="tag active" data-scope="all">Hamısı</div>
+      <div class="tag" data-scope="debtors">Borclular</div>
+      <div class="tag" data-scope="active">Aktiv bronu olanlar</div>
+      <div class="tag" data-scope="inactive">Passiv</div>
+    </div>
+  </header>
+
+  <div class="panel">
+    <div class="toolbar">
+      <div class="search">
+        <input id="q" placeholder="Ad, soyad və ya telefon axtar...">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none">
+          <path d="M21 21l-3.8-3.8M10.5 18a7.5 7.5 0 1 1 0-15 7.5 7.5 0 0 1 0 15z" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <div class="kpis">
+        <div class="kpi">Ümumi Müştəri: <b id="kpiTotal">0</b></div>
+        <div class="kpi">Borclular: <b id="kpiDebt">0</b></div>
+        <div class="kpi">Yekun Borc: <b id="kpiDebtSum">0 ₼</b></div>
+      </div>
+      <div style="display:flex;gap:8px">
+        <button class="btn primary" id="newBtn">Yeni Müştəri</button>
+      </div>
+    </div>
+
+    <div class="grid">
+      <div>Ad Soyad</div>
+      <div>Telefon</div>
+      <div>E-mail</div>
+      <div>Status</div>
+      <div>Aktiv Bron</div>
+      <div>Borc</div>
+      <div>Ödəniş %</div>
+      <div></div>
+    </div>
+    <div class="table" id="table">
+        <div class="empty">Məlumatlar yüklənir...</div>
+    </div>
+  </div>
+</div>
+
+<div class="modal-backdrop" id="backdrop"></div>
+
+<aside class="right-drawer" id="drawer">
+  <div class="drawer-head">
+    <div style="display:flex;align-items:center;gap:10px">
+      <div class="avatar" id="dAvatar"></div>
+      <div>
+        <div id="dName" style="font-weight:700"></div>
+        <div id="dPhone" style="color:var(--muted);font-size:12px"></div>
+      </div>
+    </div>
+    <button class="close" id="close">×</button>
+  </div>
+  <div class="drawer-body">
+    <div class="section">
+      <h4>Ümumi Mənzərə</h4>
+      <div class="buttons">
+        <span class="pill">Toplam xərclər: <b id="dTotalSpent">0 ₼</b></span>
+        <span class="pill">Toplam ödəniş: <b id="dTotalPaid">0 ₼</b></span>
+        <span class="pill">Qalıq borc: <b id="dDebt">0 ₼</b></span>
+        <span class="pill">Bron sayı: <b id="dBookings">0</b></span>
+        <span class="pill">Son aktivlik: <b id="dLastActive">-</b></span>
+      </div>
+    </div>
+
+    <div class="section">
+      <h4>Bronlar və Borclar</h4>
+      <div class="list" id="dBookingsList"></div>
+    </div>
+
+    <div class="section">
+      <h4>Cərimələr</h4>
+      <div class="list" id="dFinesList"></div>
+    </div>
+
+    <div class="section">
+      <h4>Əməliyyatlar</h4>
+      <div class="buttons">
+        <button class="btn small ghost" id="btnNewBooking">Yeni Bron</button>
+        <button class="btn small ghost" id="btnEdit">Məlumatı Dəyiş</button>
+        <button class="btn small" id="btnDelete" style="border-color:var(--red);color:var(--red);background:rgba(255,77,79,.08)">Sil</button>
+      </div>
+    </div>
+
+    <div class="section">
+      <h4>Qeydlər</h4>
+      <div class="card-inner">
+        <textarea id="dNotes" placeholder="Müştəri haqqında daxili qeyd..." style="width:100%;min-height:80px;padding:10px;border-radius:8px;border:1px solid var(--border);background:var(--panel);color:var(--text)"></textarea>
+        <div style="margin-top: 8px; display: flex; align-items: center; gap: 10px;">
+            <input type="checkbox" id="dBlacklist" style="width: auto;">
+            <label for="dBlacklist" style="font-weight: bold; color: var(--danger);">Qara Siyahı</label>
+        </div>
+        <button class="btn btn-sm" id="btnSaveNotes" style="margin-top: 10px;">Qeydi Yadda Saxla</button>
+        <div class="payline"><span>Son yeniləmə:</span><span id="dUpdated">-</span></div>
+      </div>
+    </div>
+  </div>
+</aside>
+
+<div class="modal" id="customerModal">
+    <div class="sheet">
+      <h3 id="customerModalTitle">Yeni Müştəri</h3>
+      <form id="customerForm">
+          <input type="hidden" id="customerId">
+          <div class="row">
+            <div><label>Ad</label><input id="firstName" name="firstName" required></div>
+            <div><label>Soyad</label><input id="lastName" name="lastName" required></div>
+          </div>
+          <div class="row">
+            <div><label>Telefon</label><input id="phone" name="phone" required></div>
+            <div><label>Email</label><input id="email" name="email"></div>
+          </div>
+          <div>
+            <label>Şəxsiyyət vəsiqəsi (dəyişmək üçün yenisini seçin)</label>
+            <input id="idCard" name="idCard" type="file">
+            <a href="#" id="currentDocLink" target="_blank" style="display: none; font-size: 12px; margin-top: 5px;">Hazırkı sənədə bax</a>
+          </div>
+          <div class="divider"></div>
+          <div style="display:flex; gap:8px; justify-content:flex-end">
+            <button type="button" class="btn" id="customerModalClose">Bağla</button>
+            <button type="submit" class="btn btn-success" id="customerModalSave">Yadda saxla</button>
+          </div>
+      </form>
+    </div>
+</div>
+
+<div class="modal" id="paymentModal">
+    <div class="sheet" style="max-width: 450px;">
+      <h3>Brondan Ödəniş</h3>
+      <p style="color: var(--muted); font-size: 13px;">
+        Bron ID: <b id="pBronId">...</b> <br>
+        Maşın: <b id="pCarInfo">...</b> <br>
+        Qalıq Borc: <b id="pBronDebt" style="color: var(--danger);">0 AZN</b>
+      </p>
+      <div class="form-group">
+        <label>Ödəniləcək Məbləğ (AZN)</label>
+        <input type="number" id="pAmount" step="0.01" placeholder="Məs: 50">
+      </div>
+      <div class="form-group">
+        <label>Qeyd (opsional)</label>
+        <input type="text" id="pNotes" placeholder="Ödəniş haqqında qeyd...">
+      </div>
+      <div class="divider"></div>
+      <div style="display:flex; gap:8px; justify-content:flex-end">
+        <button type="button" class="btn" id="paymentModalClose">Bağla</button>
+        <button type="button" class="btn btn-success" id="paymentModalSave">Ödənişi Təsdiqlə</button>
+      </div>
+    </div>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+<script src="/public/nav.js"></script>
+<script src="/public/customers.js"></script>
+</body>
+</html>

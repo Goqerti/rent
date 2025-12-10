@@ -1,0 +1,114 @@
+[
+  {
+    "id": "dgXMRd8soLoE",
+    "source": "ELI DOSTUMELIYEV",
+    "description": "BMW 479 SURUR 27 10 2025 TARIXE QEDER 400 BORCU VAR",
+    "amount": 800,
+    "date": "2025-10-28",
+    "createdAt": "2025-10-28T18:37:01.688Z"
+  },
+  {
+    "id": "-dFu7NI2yD5u",
+    "source": "781 ORXAN AXSULU ",
+    "description": "SURTUY",
+    "amount": 50,
+    "date": "2025-10-28",
+    "createdAt": "2025-10-28T18:37:55.051Z"
+  },
+  {
+    "id": "0yuwyYIsk5gd",
+    "source": "BABEK OLUXANA",
+    "description": "478 GUNNUY GERI QAYITMA",
+    "amount": 40,
+    "date": "2025-10-28",
+    "createdAt": "2025-10-28T18:39:05.212Z"
+  },
+  {
+    "id": "income_-1D8YuwWSv",
+    "source": "160 QEZA",
+    "description": "QEZA",
+    "amount": 100,
+    "date": "2025-11-03",
+    "createdAt": "2025-11-04T12:28:46.854Z"
+  },
+  {
+    "id": "income_cnwcid-5Bb",
+    "source": "masin calaq",
+    "description": "masin calaq",
+    "amount": 1000,
+    "date": "2025-11-06",
+    "createdAt": "2025-11-11T15:58:40.650Z"
+  },
+  {
+    "id": "income_fwGlkm29kr",
+    "source": "025 borc",
+    "description": "borc",
+    "amount": 60,
+    "date": "2025-11-07",
+    "createdAt": "2025-11-11T16:12:37.863Z"
+  },
+  {
+    "id": "income_vUj7UnGO2U",
+    "source": "068",
+    "description": "DASDAVKA",
+    "amount": 10,
+    "date": "2025-11-07",
+    "createdAt": "2025-11-11T16:26:52.743Z"
+  },
+  {
+    "id": "income_rtbjySNikr",
+    "source": "527 BORC",
+    "description": "BORC",
+    "amount": 140,
+    "date": "2025-11-08",
+    "createdAt": "2025-11-11T16:30:26.298Z"
+  },
+  {
+    "id": "income_wF9gb34RTb",
+    "source": "064 KREDIT 1 CI AY",
+    "description": "1350",
+    "amount": 1350,
+    "date": "2025-11-08",
+    "createdAt": "2025-11-11T16:31:33.462Z"
+  },
+  {
+    "id": "income_qtodpb9mdR",
+    "source": "QEZA 025",
+    "description": "025 QEZA",
+    "amount": 200,
+    "date": "2025-11-10",
+    "createdAt": "2025-11-11T16:36:34.925Z"
+  },
+  {
+    "id": "income_AbSqXTu0d0",
+    "source": "813:589 ",
+    "description": "KITAY",
+    "amount": 2460,
+    "date": "2025-11-18",
+    "createdAt": "2025-11-18T15:54:33.942Z"
+  },
+  {
+    "id": "income_U-Mjr39eJG",
+    "source": "589 QEZADAN",
+    "description": "QEZA",
+    "amount": 150,
+    "date": "2025-11-18",
+    "createdAt": "2025-11-18T15:54:51.062Z"
+  },
+  {
+    "id": "income_KHj1KW6Pr5",
+    "source": "950",
+    "description": "SATİS",
+    "amount": 16450,
+    "date": "2025-11-09",
+    "createdAt": "2025-11-23T20:35:30.112Z"
+  },
+  {
+    "id": "income_VP67DLZ0-V",
+    "source": "529 KREDIT",
+    "description": "KREDIT",
+    "amount": 1700,
+    "date": "2025-11-30",
+    "createdAt": "2025-12-01T12:55:30.115Z"
+  }
+]

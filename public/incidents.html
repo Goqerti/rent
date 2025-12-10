@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ofis Hadisələri</title>
+    <link rel="stylesheet" href="/public/common.css">
+    <script>
+        (function checkAuthGuard() {
+            if (!localStorage.getItem('token')) {
+                window.location.replace('/public/login.html');
+            }
+        })();
+    </script>
+</head>
+<body>
+    <div id="nav-placeholder"></div>
+    <div class="container">
+        <div class="card">
+            <h2>Ofis Hadisələrinin Qeydiyyatı</h2>
+            <p>Ofisdə və ya iş prosesində baş verən qeyri-standart hadisələri (yanğın, avadanlıq sıradan çıxması və s.) qeyd edin.</p>
+
+            <form id="incidentForm">
+                <div class="row">
+                    <div>
+                        <label for="date">Tarix</label>
+                        <input type="date" id="date" name="date" required>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="full-width">
+                        <label for="description">Hadisənin Təsviri</label>
+                        <textarea id="description" name="description" rows="3" required placeholder="Baş vermiş hadisə haqqında məlumat daxil edin..."></textarea>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="full-width">
+                        <label for="document">Sənəd əlavə et (şəkil, pdf və s.)</label>
+                        <input type="file" id="document" name="document">
+                    </div>
+                </div>
+
+                <div class="form-group full-width">
+                    <button type="submit" class="btn btn-primary">Hadisəni Əlavə et</button>
+                </div>
+            </form>
+
+            <div class="divider"></div>
+
+            <h3>Qeyd edilmiş hadisələr</h3>
+            <table class="table" id="incidentsTable">
+                <thead>
+                    <tr>
+                        <th>Tarix</th>
+                        <th>Təsvir</th>
+                        <th>Sənəd</th>
+                        <th>Əməliyyat</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="/public/nav.js"></script>
+    <script src="/public/incidents.js"></script>
+</body>
+</html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mədaxil</title>
+    <link rel="stylesheet" href="/public/common.css">
+    <script>
+        (function checkAuthGuard() {
+            if (!localStorage.getItem('token')) {
+                window.location.replace('/public/login.html');
+            }
+        })();
+    </script>
+    <style>
+        .filter-bar {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+    </style>
+</head>
+<body>
+    <div id="nav-placeholder"></div>
+    <div class="container">
+        <div class="card">
+            <h2>Mədaxil Qeydiyyatı</h2>
+            <p>Rezervasiya və cərimələrdən kənar gəlirləri (məsələn, maşın satışı, köhnə ehtiyat hissələrinin satışı) buradan daxil edin.</p>
+            
+            <form id="incomeForm" class="form-grid">
+                <div class="form-group">
+                    <label for="source">Mənbə (kimdən/hardan)</label>
+                    <input type="text" id="source" required placeholder="Məs: Əli Vəliyev">
+                </div>
+                <div class="form-group">
+                    <label for="description">Təsvir</label>
+                    <input type="text" id="description" required placeholder="Məs: Köhnə təkərlərin satışı">
+                </div>
+                <div class="form-group">
+                    <label for="amount">Məbləğ (AZN)</label>
+                    <input type="number" id="amount" step="0.01" required>
+                </div>
+                <div class="form-group">
+                    <label for="date">Tarix</label>
+                    <input type="date" id="date" required>
+                </div>
+                <div class="form-group full-width">
+                    <button type="submit" class="btn btn-primary">Mədaxili Əlavə et</button>
+                </div>
+            </form>
+
+            <div class="divider"></div>
+
+            <h3>Mədaxil Siyahısı</h3>
+            <div class="filter-bar">
+                <div>
+                    <label for="monthFilter">Ay:</label>
+                    <input type="month" id="monthFilter">
+                </div>
+                <span>və ya</span>
+                <div>
+                    <label for="dayFilter">Gün:</label>
+                    <input type="date" id="dayFilter">
+                </div>
+            </div>
+            <p>Ümumi mədaxil (filter üzrə): <strong id="totalIncomes">0 AZN</strong></p>
+
+            <table class="table" id="incomesTable">
+                <thead>
+                    <tr>
+                        <th>Tarix</th>
+                        <th>Mənbə</th>
+                        <th>Təsvir</th>
+                        <th>Məbləğ</th>
+                        <th>Əməliyyat</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+    <script src="/public/nav.js"></script>
+    <script src="/public/incomes.js"></script>
+</body>
+</html>

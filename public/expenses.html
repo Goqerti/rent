@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İnzibati Xərclər</title>
+    <link rel="stylesheet" href="/public/common.css">
+    <script>
+        (function checkAuthGuard() {
+            if (!localStorage.getItem('token')) {
+                window.location.replace('/public/login.html');
+            }
+        })();
+    </script>
+    <style>
+        .filter-bar {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+    </style>
+</head>
+<body>
+    <div id="nav-placeholder"></div>
+
+    <div class="container">
+        <div class="card">
+            <h2>İnzibati Xərclər</h2>
+            <p>Maşınlara aid olmayan ümumi xərcləri (ofis, reklam, maaş və s.) buradan daxil edin.</p>
+
+            <form id="expenseForm" class="form-grid">
+                <div class="form-group">
+                    <label for="title">Xərcin adı</label>
+                    <input type="text" id="title" required placeholder="Məs: Ofis icarəsi">
+                </div>
+                <div class="form-group">
+                    <label for="amount">Məbləğ (AZN)</label>
+                    <input type="number" id="amount" step="0.01" required placeholder="Məs: 35.50">
+                </div>
+                <div class="form-group">
+                    <label for="when">Tarix</label>
+                    <input type="date" id="when" required>
+                </div>
+                <div class="form-group full-width">
+                    <button type="submit" class="btn btn-primary">Xərci Əlavə et</button>
+                </div>
+            </form>
+
+            <div class="divider"></div>
+
+            <h3>Xərclər Siyahısı</h3>
+            <div class="filter-bar">
+                <div>
+                    <label for="monthFilter">Ay seçin:</label>
+                    <input type="month" id="monthFilter">
+                </div>
+                <span>və ya</span>
+                <div>
+                    <label for="dayFilter">Gün seçin:</label>
+                    <input type="date" id="dayFilter">
+                </div>
+            </div>
+            
+            <p>Ümumi xərc: <strong id="totalExpenses">0 AZN</strong></p>
+
+            <table class="table" id="expensesTable">
+                <thead>
+                    <tr>
+                        <th>Tarix</th>
+                        <th>Xərcin Adı</th>
+                        <th>Məbləğ</th>
+                        <th>Əməliyyat</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="/public/nav.js"></script>
+    <script src="/public/expenses.js"></script>
+</body>
+</html>

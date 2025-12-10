@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rezervasiya Təqvimi</title>
+    <link rel="stylesheet" href="/public/common.css">
+    <script>
+        (function() { if (!localStorage.getItem('token')) window.location.replace('/public/login.html'); })();
+    </script>
+</head>
+<body>
+    <div id="nav-placeholder"></div>
+
+    <div class="container">
+        <div class="calendar-page-layout">
+            
+            <div class="calendar-main">
+                <div class="card">
+                    <div class="month-navigation">
+                        <button id="prevMonthBtn" class="btn">‹ Əvvəlki Ay</button>
+                        <h2 id="currentMonthYear"></h2>
+                        <button id="nextMonthBtn" class="btn">Növbəti Ay ›</button>
+                    </div>
+
+                    <div class="legend">
+                        <div class="legend-item"><div class="legend-color status-paid"></div> Tam Ödənilib</div>
+                        <div class="legend-item"><div class="legend-color status-unpaid"></div> Ödənməyib</div>
+                        <div class="legend-item"><div class="legend-color status-partial"></div> Qismən Ödənilib</div>
+                        <div class="legend-item"><div class="legend-color status-free"></div> Pulsuz</div>
+                    </div>
+                    
+                    <div class="calendar-grid">
+                        <div class="calendar-header">B.E.</div>
+                        <div class="calendar-header">Ç.A.</div>
+                        <div class="calendar-header">Ç.</div>
+                        <div class="calendar-header">C.A.</div>
+                        <div class="calendar-header">C.</div>
+                        <div class="calendar-header">Ş.</div>
+                        <div class="calendar-header">B.</div>
+                        </div>
+                </div>
+            </div>
+
+            <div class="calendar-sidebar" id="sidePanel">
+                <div class="card">
+                    <h3 id="panelTitle">Gün Detalları</h3>
+                    <p id="panelHelpText" class="helper">Dəyişiklik etmək üçün təqvimdən bir və ya bir neçə gün seçin.</p>
+                    
+                    <form id="dayEditorForm">
+                        <div class="form-group">
+                            <label for="dayStatus">Status</label>
+                            <select id="dayStatus">
+                                <option value="unpaid">Ödənməyib</option>
+                                <option value="paid">Tam Ödənilib</option>
+                                <option value="partial">Qismən Ödənilib</option>
+                                <option value="free">Pulsuz</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="dayPrice">Qiymət (AZN)</label>
+                            <input type="number" id="dayPrice" step="0.01">
+                        </div>
+                        <div class="form-group">
+                            <label for="dayPaidAmount">Ödənilən Məbləğ (AZN)</label>
+                            <input type="number" id="dayPaidAmount" step="0.01">
+                        </div>
+                        <div class="form-group">
+                            <label for="dayNotes">Qeyd</label>
+                            <textarea id="dayNotes" rows="3"></textarea>
+                        </div>
+                        
+                        <div class="form-group" id="multiSelectOptions" style="display:none;">
+                            <input type="checkbox" id="applyToAllSelected" style="width: auto;">
+                            <label for="applyToAllSelected" style="display: inline; margin-left: 10px; font-weight: bold;">Bütün seçilmiş günlərə tətbiq et</label>
+                        </div>
+
+                        <button type="submit" class="btn btn-success" style="width: 100%;">Yadda Saxla</button>
+                    </form>
+                    
+                    <div id="summarySection" style="margin-top: 20px;">
+                        <div class="divider"></div>
+                        <h4>Rezervasiya Xülasəsi</h4>
+                        <h4 id="summaryCar" style="margin: 0;"></h4>
+                        <p id="summaryCustomer" style="color: var(--muted); margin-bottom: 10px;"></p>
+                        <p>Ümumi Gözlənilən: <strong id="summaryExpected">0 AZN</strong></p>
+                        <p>Ümumi Ödənilən: <strong id="summaryPaid">0 AZN</strong></p>
+                        <p style="color: var(--danger); font-weight: bold; font-size: 1.1em;">Qalıq Borc: <strong id="summaryRemaining">0 AZN</strong></p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/plugin/utc.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/plugin/timezone.js"></script>
+    <script src="/public/nav.js"></script>
+    <script src="/public/calendar.js"></script> 
+</body>
+</html>

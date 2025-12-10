@@ -1,0 +1,1433 @@
+[
+  {
+    "id": "HVnir7NR5TZS",
+    "carId": "pCAj8LookLv5",
+    "title": "MALYAR",
+    "amount": 80,
+    "when": "2025-10-28",
+    "createdAt": "2025-10-28T18:41:08.784Z",
+    "updatedAt": "2025-10-28T18:41:08.784Z"
+  },
+  {
+    "id": "Y8Hp7i5phL3H",
+    "carId": "U8snSO5p1IHF",
+    "title": "STATER",
+    "amount": 30,
+    "when": "2025-10-28",
+    "createdAt": "2025-10-28T18:42:19.371Z",
+    "updatedAt": "2025-10-28T18:42:19.371Z"
+  },
+  {
+    "id": "-_3dIPgOabIo",
+    "carId": "DDBV4lq9ydLU",
+    "title": "SIQNAL",
+    "amount": 10,
+    "when": "2025-10-28",
+    "createdAt": "2025-10-28T18:43:23.206Z",
+    "updatedAt": "2025-10-28T18:43:23.206Z"
+  },
+  {
+    "id": "keOPLHcKkIiM",
+    "carId": "2hBISxb4TZmV",
+    "title": "NAKLATKA STUPICA TULPAN",
+    "amount": 60,
+    "when": "2025-10-28",
+    "createdAt": "2025-10-28T20:05:06.278Z",
+    "updatedAt": "2025-10-28T20:05:06.278Z"
+  },
+  {
+    "id": "mwCTt5nkcb-t",
+    "carId": "5ydedSUacX3H",
+    "title": "turbo daccik",
+    "amount": 30,
+    "when": "2025-11-01",
+    "createdAt": "2025-11-01T17:57:15.899Z",
+    "updatedAt": "2025-11-01T17:57:15.899Z"
+  },
+  {
+    "id": "bP6p6DG-T6zG",
+    "carId": "5ydedSUacX3H",
+    "title": "usda",
+    "amount": 15,
+    "when": "2025-11-01",
+    "createdAt": "2025-11-01T17:57:37.676Z",
+    "updatedAt": "2025-11-01T17:57:37.676Z"
+  },
+  {
+    "id": "8wz6IsOLbv6Z",
+    "carId": "lGS2iv-Ir6WJ",
+    "title": "usda",
+    "amount": 5,
+    "when": "2025-11-01",
+    "createdAt": "2025-11-01T17:58:00.230Z",
+    "updatedAt": "2025-11-01T17:58:00.230Z"
+  },
+  {
+    "id": "ChBm9PGMYf8R",
+    "carId": "3S6c4Yruk54M",
+    "title": "sideniya",
+    "amount": 80,
+    "when": "2025-11-01",
+    "createdAt": "2025-11-01T17:58:23.116Z",
+    "updatedAt": "2025-11-01T17:58:23.116Z"
+  },
+  {
+    "id": "Z6hnpW_VmGC8",
+    "carId": "lGS2iv-Ir6WJ",
+    "title": "usda",
+    "amount": 25,
+    "when": "2025-11-01",
+    "createdAt": "2025-11-01T17:58:43.664Z",
+    "updatedAt": "2025-11-01T17:58:43.664Z"
+  },
+  {
+    "id": "vg6DdnhPFSjP",
+    "carId": "lGS2iv-Ir6WJ",
+    "title": "razval",
+    "amount": 20,
+    "when": "2025-11-01",
+    "createdAt": "2025-11-01T18:00:01.867Z",
+    "updatedAt": "2025-11-01T18:00:01.867Z"
+  },
+  {
+    "id": "LWP3gjFtMwM_",
+    "carId": "5ydedSUacX3H",
+    "title": "demirci",
+    "amount": 40,
+    "when": "2025-11-03",
+    "createdAt": "2025-11-03T13:05:54.124Z",
+    "updatedAt": "2025-11-03T13:05:54.124Z"
+  },
+  {
+    "id": "P3VnhCM5VqXJ",
+    "carId": "PMcnyB9S4lTF",
+    "title": "TEXSMATOR",
+    "amount": 140,
+    "when": "2025-11-01",
+    "createdAt": "2025-11-03T14:52:03.638Z",
+    "updatedAt": "2025-11-03T14:52:03.638Z"
+  },
+  {
+    "id": "dUkYcU8BOAqI",
+    "carId": "U8snSO5p1IHF",
+    "title": "FILTIR",
+    "amount": 13,
+    "when": "2025-11-02",
+    "createdAt": "2025-11-03T14:55:28.580Z",
+    "updatedAt": "2025-11-03T14:55:28.580Z"
+  },
+  {
+    "id": "aFOEwRjNcwCZ",
+    "carId": "qHQapUPqbeGl",
+    "title": "ICBARI SIQORTA",
+    "amount": 132,
+    "when": "2025-11-02",
+    "createdAt": "2025-11-03T14:58:25.323Z",
+    "updatedAt": "2025-11-03T14:58:25.323Z"
+  },
+  {
+    "id": "UNthtxf9Hb_4",
+    "carId": "qHQapUPqbeGl",
+    "title": "AYAQALTI",
+    "amount": 27,
+    "when": "2025-11-02",
+    "createdAt": "2025-11-03T14:58:48.968Z",
+    "updatedAt": "2025-11-03T14:58:48.968Z"
+  },
+  {
+    "id": "A4cEugdYHbWJ",
+    "carId": "NWc-VLgRi4kX",
+    "title": "PALIUROFKA",
+    "amount": 30,
+    "when": "2025-11-03",
+    "createdAt": "2025-11-04T12:37:04.762Z",
+    "updatedAt": "2025-11-04T12:37:04.762Z"
+  },
+  {
+    "id": "lWoKJQrkzZAA",
+    "carId": "qHQapUPqbeGl",
+    "title": "DAVERNUS",
+    "amount": 20,
+    "when": "2025-11-04",
+    "createdAt": "2025-11-04T12:38:54.544Z",
+    "updatedAt": "2025-11-04T12:38:54.544Z"
+  },
+  {
+    "id": "Ke7DgfHsHtYb",
+    "carId": "7_NLhMK7uN9X",
+    "title": "PATKRLER",
+    "amount": 50,
+    "when": "2025-11-03",
+    "createdAt": "2025-11-04T12:40:30.903Z",
+    "updatedAt": "2025-11-04T12:40:30.903Z"
+  },
+  {
+    "id": "xqWkB3Orc3uA",
+    "carId": "AMAoEXGbKKv4",
+    "title": "ISIQ",
+    "amount": 5,
+    "when": "2025-11-04",
+    "createdAt": "2025-11-04T12:41:52.666Z",
+    "updatedAt": "2025-11-04T12:41:52.666Z"
+  },
+  {
+    "id": "MlCtsU9FNas5",
+    "carId": "7_NLhMK7uN9X",
+    "title": "PATKRLE",
+    "amount": 10,
+    "when": "2025-11-04",
+    "createdAt": "2025-11-04T12:42:58.997Z",
+    "updatedAt": "2025-11-04T12:42:58.997Z"
+  },
+  {
+    "id": "6NMRvOFQag1D",
+    "carId": "NWc-VLgRi4kX",
+    "title": "YAG",
+    "amount": 10,
+    "when": "2025-11-05",
+    "createdAt": "2025-11-11T16:56:22.784Z",
+    "updatedAt": "2025-11-11T16:56:22.784Z"
+  },
+  {
+    "id": "XYkPSO_9hzHq",
+    "carId": "PMcnyB9S4lTF",
+    "title": "PRAKLATKA",
+    "amount": 15,
+    "when": "2025-11-06",
+    "createdAt": "2025-11-11T16:59:12.416Z",
+    "updatedAt": "2025-11-11T16:59:12.416Z"
+  },
+  {
+    "id": "IKniXZ_tmbTl",
+    "carId": "PMcnyB9S4lTF",
+    "title": "PRAKLATKA",
+    "amount": 15,
+    "when": "2025-11-06",
+    "createdAt": "2025-11-11T16:59:12.809Z",
+    "updatedAt": "2025-11-11T16:59:12.809Z"
+  },
+  {
+    "id": "zTiuuc1Sf33N",
+    "carId": "NDeJFUmEdvkP",
+    "title": "MALYAR",
+    "amount": 500,
+    "when": "2025-11-06",
+    "createdAt": "2025-11-11T16:59:28.807Z",
+    "updatedAt": "2025-11-11T16:59:28.807Z"
+  },
+  {
+    "id": "oBvuS5edqGOa",
+    "carId": "PMcnyB9S4lTF",
+    "title": "USDA",
+    "amount": 20,
+    "when": "2025-11-06",
+    "createdAt": "2025-11-11T16:59:41.075Z",
+    "updatedAt": "2025-11-11T16:59:41.075Z"
+  },
+  {
+    "id": "YekRNipj8Ks0",
+    "carId": "KeiK1Jd7nQQG",
+    "title": "QRANAT",
+    "amount": 300,
+    "when": "2025-11-07",
+    "createdAt": "2025-11-11T17:01:21.084Z",
+    "updatedAt": "2025-11-11T17:01:21.084Z"
+  },
+  {
+    "id": "lk7eJwAZiTG8",
+    "carId": "TjA1twyVgpfj",
+    "title": "APORNI",
+    "amount": 40,
+    "when": "2025-11-07",
+    "createdAt": "2025-11-11T17:01:37.499Z",
+    "updatedAt": "2025-11-11T17:01:37.499Z"
+  },
+  {
+    "id": "G4CM04eBrUcr",
+    "carId": "NDeJFUmEdvkP",
+    "title": "EVAKUATR",
+    "amount": 25,
+    "when": "2025-11-07",
+    "createdAt": "2025-11-11T17:02:10.863Z",
+    "updatedAt": "2025-11-11T17:02:10.863Z"
+  },
+  {
+    "id": "f7S_6zOnOpLU",
+    "carId": "U8snSO5p1IHF",
+    "title": "USDA",
+    "amount": 20,
+    "when": "2025-11-07",
+    "createdAt": "2025-11-11T17:02:49.062Z",
+    "updatedAt": "2025-11-11T17:02:49.062Z"
+  },
+  {
+    "id": "MnpqJ1aFNsQI",
+    "carId": "TjA1twyVgpfj",
+    "title": "ZASITNIK",
+    "amount": 20,
+    "when": "2025-11-07",
+    "createdAt": "2025-11-11T17:03:10.255Z",
+    "updatedAt": "2025-11-11T17:03:10.255Z"
+  },
+  {
+    "id": "hPx9Be0FrTP9",
+    "carId": "DDBV4lq9ydLU",
+    "title": "EVAKUATE",
+    "amount": 30,
+    "when": "2025-11-07",
+    "createdAt": "2025-11-11T17:03:34.074Z",
+    "updatedAt": "2025-11-11T17:03:34.074Z"
+  },
+  {
+    "id": "m8ys5hC8C7Tz",
+    "carId": "6AkIFQlF20JH",
+    "title": "YAG",
+    "amount": 60,
+    "when": "2025-11-08",
+    "createdAt": "2025-11-11T17:05:48.596Z",
+    "updatedAt": "2025-11-11T17:05:48.596Z"
+  },
+  {
+    "id": "3jB3K1T_qIqk",
+    "carId": "6AkIFQlF20JH",
+    "title": "USDA",
+    "amount": 10,
+    "when": "2025-11-08",
+    "createdAt": "2025-11-11T17:05:59.343Z",
+    "updatedAt": "2025-11-11T17:05:59.343Z"
+  },
+  {
+    "id": "09s8ednaa9rW",
+    "carId": "25gHU7WcK8Ek",
+    "title": "YAG",
+    "amount": 65,
+    "when": "2025-11-08",
+    "createdAt": "2025-11-11T17:06:14.576Z",
+    "updatedAt": "2025-11-11T17:06:14.576Z"
+  },
+  {
+    "id": "Kgc4dsAJcCoz",
+    "carId": "lGS2iv-Ir6WJ",
+    "title": "QAPI",
+    "amount": 150,
+    "when": "2025-11-09",
+    "createdAt": "2025-11-11T17:07:38.198Z",
+    "updatedAt": "2025-11-11T17:07:38.198Z"
+  },
+  {
+    "id": "Wpxhsp1ozZl2",
+    "carId": "25gHU7WcK8Ek",
+    "title": "HAVA FILTR",
+    "amount": 8,
+    "when": "2025-11-09",
+    "createdAt": "2025-11-11T17:07:59.301Z",
+    "updatedAt": "2025-11-11T17:07:59.301Z"
+  },
+  {
+    "id": "cKl602QoRIt3",
+    "carId": "NDeJFUmEdvkP",
+    "title": "EVAKUATR",
+    "amount": 30,
+    "when": "2025-11-09",
+    "createdAt": "2025-11-11T17:08:24.335Z",
+    "updatedAt": "2025-11-11T17:08:24.335Z"
+  },
+  {
+    "id": "LmAQ9pQRCHXU",
+    "carId": "NDeJFUmEdvkP",
+    "title": "FARA",
+    "amount": 550,
+    "when": "2025-11-09",
+    "createdAt": "2025-11-11T17:08:44.937Z",
+    "updatedAt": "2025-11-11T17:08:44.937Z"
+  },
+  {
+    "id": "UYsmMZX6bhlv",
+    "carId": "NWc-VLgRi4kX",
+    "title": "MALYAR",
+    "amount": 70,
+    "when": "2025-11-09",
+    "createdAt": "2025-11-11T17:09:37.892Z",
+    "updatedAt": "2025-11-11T17:09:37.892Z"
+  },
+  {
+    "id": "zKGdSKf-n5X0",
+    "carId": "-6dWtWryzhLw",
+    "title": "845",
+    "amount": 845,
+    "when": "2025-11-09",
+    "createdAt": "2025-11-11T17:10:26.273Z",
+    "updatedAt": "2025-11-11T17:10:26.273Z"
+  },
+  {
+    "id": "FRDmtqTxm8Ao",
+    "carId": "lGS2iv-Ir6WJ",
+    "title": "DIAQNOTSIKS",
+    "amount": 5,
+    "when": "2025-11-10",
+    "createdAt": "2025-11-11T17:12:51.420Z",
+    "updatedAt": "2025-11-11T17:12:51.420Z"
+  },
+  {
+    "id": "5ftz8QuPZps7",
+    "carId": "DDBV4lq9ydLU",
+    "title": "USDA",
+    "amount": 20,
+    "when": "2025-11-10",
+    "createdAt": "2025-11-11T17:13:20.231Z",
+    "updatedAt": "2025-11-11T17:13:20.231Z"
+  },
+  {
+    "id": "9cBnqJ0EpYUt",
+    "carId": "-6dWtWryzhLw",
+    "title": "MOYKA",
+    "amount": 10,
+    "when": "2025-11-10",
+    "createdAt": "2025-11-11T17:13:56.107Z",
+    "updatedAt": "2025-11-11T17:13:56.107Z"
+  },
+  {
+    "id": "_7qTb9geTU_G",
+    "carId": "6AkIFQlF20JH",
+    "title": "USDA",
+    "amount": 55,
+    "when": "2025-11-11",
+    "createdAt": "2025-11-11T17:15:14.099Z",
+    "updatedAt": "2025-11-11T17:15:14.099Z"
+  },
+  {
+    "id": "WZRCxdHyoYLs",
+    "carId": "3S6c4Yruk54M",
+    "title": "GPS",
+    "amount": 67,
+    "when": "2025-11-12",
+    "createdAt": "2025-11-12T19:36:12.159Z",
+    "updatedAt": "2025-11-12T19:36:12.159Z"
+  },
+  {
+    "id": "pVAZP1Ux_cLX",
+    "carId": "4mLCAwYRo5LX",
+    "title": "YAG FILTIR",
+    "amount": 85,
+    "when": "2025-11-12",
+    "createdAt": "2025-11-12T19:36:46.467Z",
+    "updatedAt": "2025-11-12T19:36:46.467Z"
+  },
+  {
+    "id": "YWa-i3Uc9m7V",
+    "carId": "3S6c4Yruk54M",
+    "title": "YAG FILTIR",
+    "amount": 150,
+    "when": "2025-11-12",
+    "createdAt": "2025-11-12T19:37:05.872Z",
+    "updatedAt": "2025-11-12T19:37:05.872Z"
+  },
+  {
+    "id": "tMojQ4DD56hB",
+    "carId": "qHQapUPqbeGl",
+    "title": "CEXOL PLONKA",
+    "amount": 200,
+    "when": "2025-11-12",
+    "createdAt": "2025-11-12T19:38:01.248Z",
+    "updatedAt": "2025-11-12T19:38:01.248Z"
+  },
+  {
+    "id": "8oJjLtCGK8j5",
+    "carId": "3S6c4Yruk54M",
+    "title": "YAG USDA",
+    "amount": 10,
+    "when": "2025-11-12",
+    "createdAt": "2025-11-12T19:38:35.469Z",
+    "updatedAt": "2025-11-12T19:38:35.469Z"
+  },
+  {
+    "id": "lPo2QIkiSX4l",
+    "carId": "lGS2iv-Ir6WJ",
+    "title": "SEP",
+    "amount": 700,
+    "when": "2025-11-12",
+    "createdAt": "2025-11-12T19:40:01.032Z",
+    "updatedAt": "2025-11-12T19:40:01.032Z"
+  },
+  {
+    "id": "flH9xM8JX3SV",
+    "carId": "NDeJFUmEdvkP",
+    "title": "PEREDOK",
+    "amount": 670,
+    "when": "2025-11-12",
+    "createdAt": "2025-11-12T19:40:22.789Z",
+    "updatedAt": "2025-11-12T19:40:22.789Z"
+  },
+  {
+    "id": "XU_y_hjMhBxf",
+    "carId": "Am_8DhI2wcZg",
+    "title": "arqon",
+    "amount": 20,
+    "when": "2025-11-13",
+    "createdAt": "2025-11-16T13:54:17.577Z",
+    "updatedAt": "2025-11-16T13:54:17.577Z"
+  },
+  {
+    "id": "XkurXlGJUH4E",
+    "carId": "PMcnyB9S4lTF",
+    "title": "usda",
+    "amount": 25,
+    "when": "2025-11-13",
+    "createdAt": "2025-11-16T13:54:28.117Z",
+    "updatedAt": "2025-11-16T13:54:28.117Z"
+  },
+  {
+    "id": "ZkAsGrnSeVTS",
+    "carId": "PMcnyB9S4lTF",
+    "title": "usda",
+    "amount": 25,
+    "when": "2025-11-13",
+    "createdAt": "2025-11-16T13:54:28.285Z",
+    "updatedAt": "2025-11-16T13:54:28.285Z"
+  },
+  {
+    "id": "RtM0uW7GeB3F",
+    "carId": "AMAoEXGbKKv4",
+    "title": "bufer",
+    "amount": 30,
+    "when": "2025-11-13",
+    "createdAt": "2025-11-16T13:56:09.534Z",
+    "updatedAt": "2025-11-16T13:56:09.534Z"
+  },
+  {
+    "id": "gKMvwJ5dN6gI",
+    "carId": "4mLCAwYRo5LX",
+    "title": "yag usda",
+    "amount": 5,
+    "when": "2025-11-13",
+    "createdAt": "2025-11-16T13:56:33.017Z",
+    "updatedAt": "2025-11-16T13:56:33.017Z"
+  },
+  {
+    "id": "KxyaeU6OMUAk",
+    "carId": "AMAoEXGbKKv4",
+    "title": "yag filtir",
+    "amount": 8,
+    "when": "2025-11-14",
+    "createdAt": "2025-11-16T13:56:49.756Z",
+    "updatedAt": "2025-11-16T13:56:49.756Z"
+  },
+  {
+    "id": "5ssuBapG91ly",
+    "carId": "2hBISxb4TZmV",
+    "title": "usda",
+    "amount": 10,
+    "when": "2025-11-14",
+    "createdAt": "2025-11-16T13:57:24.967Z",
+    "updatedAt": "2025-11-16T13:57:24.967Z"
+  },
+  {
+    "id": "yUStQ1ZRBtyi",
+    "carId": "2hBISxb4TZmV",
+    "title": "teker",
+    "amount": 180,
+    "when": "2025-11-14",
+    "createdAt": "2025-11-16T13:57:36.376Z",
+    "updatedAt": "2025-11-16T13:57:36.376Z"
+  },
+  {
+    "id": "5Lu5RyvL9cZu",
+    "carId": "NWc-VLgRi4kX",
+    "title": "malyar",
+    "amount": 80,
+    "when": "2025-11-14",
+    "createdAt": "2025-11-16T13:58:00.179Z",
+    "updatedAt": "2025-11-16T13:58:00.179Z"
+  },
+  {
+    "id": "22zMT6cPRdNe",
+    "carId": "2hBISxb4TZmV",
+    "title": "razval",
+    "amount": 15,
+    "when": "2025-11-14",
+    "createdAt": "2025-11-16T13:58:31.475Z",
+    "updatedAt": "2025-11-16T13:58:31.475Z"
+  },
+  {
+    "id": "KePV9ZA70vHh",
+    "carId": "AMAoEXGbKKv4",
+    "title": "lamicka",
+    "amount": 8,
+    "when": "2025-11-14",
+    "createdAt": "2025-11-16T13:58:49.078Z",
+    "updatedAt": "2025-11-16T13:58:49.078Z"
+  },
+  {
+    "id": "Ith1eXXI_bDg",
+    "carId": "AMAoEXGbKKv4",
+    "title": "isiq usda",
+    "amount": 10,
+    "when": "2025-11-15",
+    "createdAt": "2025-11-16T14:02:33.598Z",
+    "updatedAt": "2025-11-16T14:02:33.598Z"
+  },
+  {
+    "id": "BMZkjeH796tO",
+    "carId": "2hBISxb4TZmV",
+    "title": "usda",
+    "amount": 25,
+    "when": "2025-11-15",
+    "createdAt": "2025-11-16T14:03:05.718Z",
+    "updatedAt": "2025-11-16T14:03:05.718Z"
+  },
+  {
+    "id": "LQ1P0ythBLW3",
+    "carId": "NDeJFUmEdvkP",
+    "title": "usda",
+    "amount": 250,
+    "when": "2025-11-15",
+    "createdAt": "2025-11-16T14:03:42.234Z",
+    "updatedAt": "2025-11-16T14:03:42.234Z"
+  },
+  {
+    "id": "BA2Np7pIS4Up",
+    "carId": "6AkIFQlF20JH",
+    "title": "teker",
+    "amount": 5,
+    "when": "2025-11-14",
+    "createdAt": "2025-11-16T14:04:25.623Z",
+    "updatedAt": "2025-11-16T14:04:25.623Z"
+  },
+  {
+    "id": "1wFggWsfOHS1",
+    "carId": "6AkIFQlF20JH",
+    "title": "pult das",
+    "amount": 6,
+    "when": "2025-11-14",
+    "createdAt": "2025-11-16T14:05:53.099Z",
+    "updatedAt": "2025-11-16T14:05:53.099Z"
+  },
+  {
+    "id": "h8V4JMtl8EIN",
+    "carId": "lGS2iv-Ir6WJ",
+    "title": "moyka",
+    "amount": 7,
+    "when": "2025-11-15",
+    "createdAt": "2025-11-16T14:06:40.235Z",
+    "updatedAt": "2025-11-16T14:06:40.235Z"
+  },
+  {
+    "id": "giFrBVJfOuQ6",
+    "carId": "1kiOpatKmMZ-",
+    "title": "evakuatr",
+    "amount": 25,
+    "when": "2025-11-14",
+    "createdAt": "2025-11-16T14:07:58.385Z",
+    "updatedAt": "2025-11-16T14:07:58.385Z"
+  },
+  {
+    "id": "Vc4DjTprit5e",
+    "carId": "lGS2iv-Ir6WJ",
+    "title": "usda",
+    "amount": 500,
+    "when": "2025-11-15",
+    "createdAt": "2025-11-16T14:12:41.889Z",
+    "updatedAt": "2025-11-16T14:12:41.889Z"
+  },
+  {
+    "id": "5zoavcUUmQ7l",
+    "carId": "qHQapUPqbeGl",
+    "title": "aksesuar",
+    "amount": 165,
+    "when": "2025-11-15",
+    "createdAt": "2025-11-16T14:13:03.579Z",
+    "updatedAt": "2025-11-16T14:13:03.579Z"
+  },
+  {
+    "id": "3dDVP4R88dBv",
+    "carId": "NDeJFUmEdvkP",
+    "title": "guzgu qapag",
+    "amount": 70,
+    "when": "2025-11-15",
+    "createdAt": "2025-11-16T14:14:06.130Z",
+    "updatedAt": "2025-11-16T14:14:06.130Z"
+  },
+  {
+    "id": "DMsS4Hf7K_Yu",
+    "carId": "6AkIFQlF20JH",
+    "title": "ucbari",
+    "amount": 70,
+    "when": "2025-11-16",
+    "createdAt": "2025-11-16T14:15:38.224Z",
+    "updatedAt": "2025-11-16T14:15:38.224Z"
+  },
+  {
+    "id": "xBZtApzS9KXx",
+    "carId": "KeiK1Jd7nQQG",
+    "title": "moyka",
+    "amount": 7,
+    "when": "2025-11-16",
+    "createdAt": "2025-11-16T14:16:42.789Z",
+    "updatedAt": "2025-11-16T14:16:42.789Z"
+  },
+  {
+    "id": "E_s4FWDzPXJJ",
+    "carId": "U8snSO5p1IHF",
+    "title": "isiiq",
+    "amount": 5,
+    "when": "2025-11-16",
+    "createdAt": "2025-11-16T14:17:03.550Z",
+    "updatedAt": "2025-11-16T14:17:03.550Z"
+  },
+  {
+    "id": "aihLPZv_t5NH",
+    "carId": "4mLCAwYRo5LX",
+    "title": "parilofka",
+    "amount": 10,
+    "when": "2025-11-16",
+    "createdAt": "2025-11-16T14:17:25.227Z",
+    "updatedAt": "2025-11-16T14:17:25.227Z"
+  },
+  {
+    "id": "_hzfWFlwm8AB",
+    "carId": "4mLCAwYRo5LX",
+    "title": "PARILOFKA",
+    "amount": 10,
+    "when": "2025-11-17",
+    "createdAt": "2025-11-17T14:48:53.164Z",
+    "updatedAt": "2025-11-17T14:48:53.164Z"
+  },
+  {
+    "id": "SbsYJ3Hky-cQ",
+    "carId": "KeiK1Jd7nQQG",
+    "title": "USDA",
+    "amount": 5,
+    "when": "2025-11-16",
+    "createdAt": "2025-11-17T14:49:16.414Z",
+    "updatedAt": "2025-11-17T14:49:16.414Z"
+  },
+  {
+    "id": "HMvg0YtvA_Qt",
+    "carId": "1kiOpatKmMZ-",
+    "title": "USDA",
+    "amount": 20,
+    "when": "2025-11-17",
+    "createdAt": "2025-11-17T14:51:37.997Z",
+    "updatedAt": "2025-11-17T14:51:37.997Z"
+  },
+  {
+    "id": "DBwElPhnK8Br",
+    "carId": "DDBV4lq9ydLU",
+    "title": "ISIQ",
+    "amount": 5,
+    "when": "2025-11-18",
+    "createdAt": "2025-11-18T15:55:28.799Z",
+    "updatedAt": "2025-11-18T15:55:28.799Z"
+  },
+  {
+    "id": "3KkEepJNRgG0",
+    "carId": "DDBV4lq9ydLU",
+    "title": "isiq ",
+    "amount": 5,
+    "when": "2025-11-18",
+    "createdAt": "2025-11-19T17:57:09.432Z",
+    "updatedAt": "2025-11-19T17:57:09.432Z"
+  },
+  {
+    "id": "qBF-yCHsw66D",
+    "carId": "lGS2iv-Ir6WJ",
+    "title": "amarzator usda",
+    "amount": 30,
+    "when": "2025-11-19",
+    "createdAt": "2025-11-19T17:58:29.880Z",
+    "updatedAt": "2025-11-19T17:58:29.880Z"
+  },
+  {
+    "id": "efoM3SmaVUfO",
+    "carId": "1kiOpatKmMZ-",
+    "title": "bufer fara",
+    "amount": 560,
+    "when": "2025-11-19",
+    "createdAt": "2025-11-19T17:58:57.614Z",
+    "updatedAt": "2025-11-19T17:58:57.614Z"
+  },
+  {
+    "id": "xVP4f5gS4qFR",
+    "carId": "4mLCAwYRo5LX",
+    "title": "isiq usda",
+    "amount": 10,
+    "when": "2025-11-19",
+    "createdAt": "2025-11-19T17:59:20.672Z",
+    "updatedAt": "2025-11-19T17:59:20.672Z"
+  },
+  {
+    "id": "9P7sOgmjr7X5",
+    "carId": "NDeJFUmEdvkP",
+    "title": "YAG",
+    "amount": 28,
+    "when": "2025-11-20",
+    "createdAt": "2025-11-24T15:40:39.847Z",
+    "updatedAt": "2025-11-24T15:40:39.847Z"
+  },
+  {
+    "id": "nMKDSVFAh5Bd",
+    "carId": "DDBV4lq9ydLU",
+    "title": "USDA",
+    "amount": 70,
+    "when": "2025-11-20",
+    "createdAt": "2025-11-24T15:43:09.923Z",
+    "updatedAt": "2025-11-24T15:43:09.923Z"
+  },
+  {
+    "id": "5nZXTlUxfaHI",
+    "carId": "DDBV4lq9ydLU",
+    "title": "TEXNIKI BAXIS",
+    "amount": 140,
+    "when": "2025-11-21",
+    "createdAt": "2025-11-24T15:44:18.527Z",
+    "updatedAt": "2025-11-24T15:44:18.527Z"
+  },
+  {
+    "id": "ElPjqRh_Ew8u",
+    "carId": "PMcnyB9S4lTF",
+    "title": "DIQANOSTIKA",
+    "amount": 10,
+    "when": "2025-11-21",
+    "createdAt": "2025-11-24T15:44:34.483Z",
+    "updatedAt": "2025-11-24T15:44:34.483Z"
+  },
+  {
+    "id": "0MNhmPAYhvbk",
+    "carId": "PMcnyB9S4lTF",
+    "title": "DIAQNOSTIKS",
+    "amount": 10,
+    "when": "2025-11-21",
+    "createdAt": "2025-11-25T11:04:08.277Z",
+    "updatedAt": "2025-11-25T11:04:08.277Z"
+  },
+  {
+    "id": "xNrB0nFmkHfw",
+    "carId": "lsvTLbKITDHU",
+    "title": "YAG",
+    "amount": 140,
+    "when": "2025-11-22",
+    "createdAt": "2025-11-25T11:04:42.398Z",
+    "updatedAt": "2025-11-25T11:04:42.398Z"
+  },
+  {
+    "id": "r8Ye2RU7bXUr",
+    "carId": "qHQapUPqbeGl",
+    "title": "KOMPUTER",
+    "amount": 40,
+    "when": "2025-11-22",
+    "createdAt": "2025-11-25T11:05:02.061Z",
+    "updatedAt": "2025-11-25T11:05:02.061Z"
+  },
+  {
+    "id": "B4ZtB5ZCt53A",
+    "carId": "NDeJFUmEdvkP",
+    "title": "ROL",
+    "amount": 80,
+    "when": "2025-11-22",
+    "createdAt": "2025-11-25T11:05:39.613Z",
+    "updatedAt": "2025-11-25T11:05:39.613Z"
+  },
+  {
+    "id": "MxQxizTPtkpT",
+    "carId": "lsvTLbKITDHU",
+    "title": "YAG DEYISME",
+    "amount": 10,
+    "when": "2025-11-22",
+    "createdAt": "2025-11-25T11:06:02.171Z",
+    "updatedAt": "2025-11-25T11:06:02.171Z"
+  },
+  {
+    "id": "2Q7LeadIUaAq",
+    "carId": "lsvTLbKITDHU",
+    "title": "DINAMA",
+    "amount": 45,
+    "when": "2025-11-23",
+    "createdAt": "2025-11-25T11:06:50.588Z",
+    "updatedAt": "2025-11-25T11:06:50.588Z"
+  },
+  {
+    "id": "XxcUg3mJzP7Y",
+    "carId": "KeiK1Jd7nQQG",
+    "title": "QRANAT",
+    "amount": 305,
+    "when": "2025-11-23",
+    "createdAt": "2025-11-25T11:07:09.733Z",
+    "updatedAt": "2025-11-25T11:07:09.733Z"
+  },
+  {
+    "id": "pZ5eed3l2l_w",
+    "carId": "1kiOpatKmMZ-",
+    "title": "CASKA",
+    "amount": 85,
+    "when": "2025-11-23",
+    "createdAt": "2025-11-25T11:07:47.744Z",
+    "updatedAt": "2025-11-25T11:07:47.744Z"
+  },
+  {
+    "id": "-ho_6PSo60kb",
+    "carId": "1kiOpatKmMZ-",
+    "title": "CASKA ALMACIQ",
+    "amount": 40,
+    "when": "2025-11-24",
+    "createdAt": "2025-11-25T11:09:13.751Z",
+    "updatedAt": "2025-11-25T11:09:13.751Z"
+  },
+  {
+    "id": "iHwXqmC8DDDm",
+    "carId": "QjOSbG_ovT-K",
+    "title": "PALIROFKA",
+    "amount": 10,
+    "when": "2025-11-23",
+    "createdAt": "2025-11-25T11:09:46.647Z",
+    "updatedAt": "2025-11-25T11:09:46.647Z"
+  },
+  {
+    "id": "7XddmDH3RJmJ",
+    "carId": "1kiOpatKmMZ-",
+    "title": "MALYAR",
+    "amount": 50,
+    "when": "2025-11-23",
+    "createdAt": "2025-11-25T11:10:47.689Z",
+    "updatedAt": "2025-11-25T11:10:47.689Z"
+  },
+  {
+    "id": "Lq0vLBJCjwqp",
+    "carId": "NDeJFUmEdvkP",
+    "title": "ICBARI ",
+    "amount": 190,
+    "when": "2025-11-24",
+    "createdAt": "2025-11-25T11:13:39.081Z",
+    "updatedAt": "2025-11-25T11:13:39.081Z"
+  },
+  {
+    "id": "wLROCa0AflDn",
+    "carId": "Am_8DhI2wcZg",
+    "title": "CAMRY",
+    "amount": 300,
+    "when": "2025-11-24",
+    "createdAt": "2025-11-25T11:14:48.438Z",
+    "updatedAt": "2025-11-25T11:14:48.438Z"
+  },
+  {
+    "id": "ThtveBMQX3MS",
+    "carId": "DDBV4lq9ydLU",
+    "title": "TUSTU YOXLAMA",
+    "amount": 10,
+    "when": "2025-11-24",
+    "createdAt": "2025-11-25T11:16:02.516Z",
+    "updatedAt": "2025-11-25T11:16:02.516Z"
+  },
+  {
+    "id": "x4TxMSff62cM",
+    "carId": "1kiOpatKmMZ-",
+    "title": "MALYAR",
+    "amount": 100,
+    "when": "2025-11-25",
+    "createdAt": "2025-11-25T11:18:10.528Z",
+    "updatedAt": "2025-11-25T11:18:10.528Z"
+  },
+  {
+    "id": "qF9PbJvsz-A3",
+    "carId": "qHQapUPqbeGl",
+    "title": "TOK",
+    "amount": 4,
+    "when": "2025-11-25",
+    "createdAt": "2025-11-25T11:18:25.194Z",
+    "updatedAt": "2025-11-25T11:18:25.194Z"
+  },
+  {
+    "id": "U1TzpVkOkSnA",
+    "carId": "lGS2iv-Ir6WJ",
+    "title": "LENTA USDA",
+    "amount": 50,
+    "when": "2025-11-27",
+    "createdAt": "2025-11-27T16:29:25.590Z",
+    "updatedAt": "2025-11-27T16:29:25.590Z"
+  },
+  {
+    "id": "ZS5VNd935qRl",
+    "carId": "25gHU7WcK8Ek",
+    "title": "RULAVOY BUTULKA",
+    "amount": 170,
+    "when": "2025-11-27",
+    "createdAt": "2025-11-27T16:30:28.967Z",
+    "updatedAt": "2025-11-27T16:30:28.967Z"
+  },
+  {
+    "id": "HtX9MtbJF0tE",
+    "carId": "1kiOpatKmMZ-",
+    "title": "EVAKATUAR",
+    "amount": 50,
+    "when": "2025-11-27",
+    "createdAt": "2025-11-27T16:30:52.792Z",
+    "updatedAt": "2025-11-27T16:30:52.792Z"
+  },
+  {
+    "id": "Nlbf6eIf51lk",
+    "carId": "lGS2iv-Ir6WJ",
+    "title": "RAZVALNI BUTULKA",
+    "amount": 45,
+    "when": "2025-11-27",
+    "createdAt": "2025-11-27T16:31:24.970Z",
+    "updatedAt": "2025-11-27T16:31:24.970Z"
+  },
+  {
+    "id": "nnuQ7eM0qWNH",
+    "carId": "25gHU7WcK8Ek",
+    "title": "RAZVALNI BUTULKA",
+    "amount": 45,
+    "when": "2025-11-27",
+    "createdAt": "2025-11-27T16:32:19.908Z",
+    "updatedAt": "2025-11-27T16:32:19.908Z"
+  },
+  {
+    "id": "iyiizYZIcXYR",
+    "carId": "5ydedSUacX3H",
+    "title": "DAVERNUS",
+    "amount": 20,
+    "when": "2025-11-27",
+    "createdAt": "2025-11-27T16:32:55.380Z",
+    "updatedAt": "2025-11-27T16:32:55.380Z"
+  },
+  {
+    "id": "m4yDiRfGAF7D",
+    "carId": "5ydedSUacX3H",
+    "title": "SIQORTA",
+    "amount": 90,
+    "when": "2025-11-27",
+    "createdAt": "2025-11-27T16:33:17.153Z",
+    "updatedAt": "2025-11-27T16:33:17.153Z"
+  },
+  {
+    "id": "A9idF81hVLdd",
+    "carId": "1kiOpatKmMZ-",
+    "title": "MALYAR",
+    "amount": 100,
+    "when": "2025-11-27",
+    "createdAt": "2025-11-27T16:34:13.197Z",
+    "updatedAt": "2025-11-27T16:34:13.197Z"
+  },
+  {
+    "id": "C8iOTtHVIqmQ",
+    "carId": "NDeJFUmEdvkP",
+    "title": "YAG NAKLADKA",
+    "amount": 20,
+    "when": "2025-11-28",
+    "createdAt": "2025-11-28T17:35:20.831Z",
+    "updatedAt": "2025-11-28T17:35:20.831Z"
+  },
+  {
+    "id": "AVWHhJ1GnlB3",
+    "carId": "1kiOpatKmMZ-",
+    "title": "DEMIRCI",
+    "amount": 50,
+    "when": "2025-11-28",
+    "createdAt": "2025-11-28T17:35:41.578Z",
+    "updatedAt": "2025-11-28T17:35:41.578Z"
+  },
+  {
+    "id": "UI7X7BrFTPSZ",
+    "carId": "2hBISxb4TZmV",
+    "title": "MALYAR",
+    "amount": 70,
+    "when": "2025-11-28",
+    "createdAt": "2025-11-28T17:36:29.853Z",
+    "updatedAt": "2025-11-28T17:36:29.853Z"
+  },
+  {
+    "id": "nULe7baO3yet",
+    "carId": "KeiK1Jd7nQQG",
+    "title": "MOYKA",
+    "amount": 5,
+    "when": "2025-11-28",
+    "createdAt": "2025-11-28T17:37:22.617Z",
+    "updatedAt": "2025-11-28T17:37:22.617Z"
+  },
+  {
+    "id": "hctpCUxqfvw_",
+    "carId": "25gHU7WcK8Ek",
+    "title": "malyar",
+    "amount": 30,
+    "when": "2025-11-30",
+    "createdAt": "2025-11-30T13:56:35.451Z",
+    "updatedAt": "2025-11-30T13:56:35.451Z"
+  },
+  {
+    "id": "3GaQQDs-p9ds",
+    "carId": "-2G8cFNET24k",
+    "title": "zamok",
+    "amount": 10,
+    "when": "2025-11-30",
+    "createdAt": "2025-11-30T13:57:19.252Z",
+    "updatedAt": "2025-11-30T13:57:19.252Z"
+  },
+  {
+    "id": "kXq882ukCfw9",
+    "carId": "1kiOpatKmMZ-",
+    "title": "patrkelnik",
+    "amount": 60,
+    "when": "2025-11-30",
+    "createdAt": "2025-11-30T13:58:36.158Z",
+    "updatedAt": "2025-11-30T13:58:36.158Z"
+  },
+  {
+    "id": "_veRnSm0ScQQ",
+    "carId": "1kiOpatKmMZ-",
+    "title": "zasitnik",
+    "amount": 60,
+    "when": "2025-11-30",
+    "createdAt": "2025-11-30T13:59:09.545Z",
+    "updatedAt": "2025-11-30T13:59:09.545Z"
+  },
+  {
+    "id": "j-Z-BlIbjheN",
+    "carId": "TjA1twyVgpfj",
+    "title": "Yag",
+    "amount": 70,
+    "when": "2025-12-30",
+    "createdAt": "2025-12-01T13:11:52.529Z",
+    "updatedAt": "2025-12-01T13:11:52.529Z"
+  },
+  {
+    "id": "eIyEPnSykIPS",
+    "carId": "1kiOpatKmMZ-",
+    "title": "PATRKLERNIK",
+    "amount": 30,
+    "when": "2025-12-01",
+    "createdAt": "2025-12-01T15:18:10.869Z",
+    "updatedAt": "2025-12-01T15:18:10.869Z"
+  },
+  {
+    "id": "z9ZWB6ttp9qR",
+    "carId": "1kiOpatKmMZ-",
+    "title": "RAZVAL",
+    "amount": 15,
+    "when": "2025-12-01",
+    "createdAt": "2025-12-01T15:19:48.588Z",
+    "updatedAt": "2025-12-01T15:19:48.588Z"
+  },
+  {
+    "id": "2EaKqjfdORA5",
+    "carId": "-2G8cFNET24k",
+    "title": "niva",
+    "amount": 12,
+    "when": "2025-12-01",
+    "createdAt": "2025-12-02T15:36:46.753Z",
+    "updatedAt": "2025-12-02T15:36:46.753Z"
+  },
+  {
+    "id": "Mfgo3xQNYRQ1",
+    "carId": "-2G8cFNET24k",
+    "title": "dinama",
+    "amount": 150,
+    "when": "2025-12-03",
+    "createdAt": "2025-12-04T17:16:01.749Z",
+    "updatedAt": "2025-12-04T17:16:01.749Z"
+  },
+  {
+    "id": "EPCHcwzwAexi",
+    "carId": "TjA1twyVgpfj",
+    "title": "pacennik",
+    "amount": 20,
+    "when": "2025-12-03",
+    "createdAt": "2025-12-04T17:17:07.672Z",
+    "updatedAt": "2025-12-04T17:17:07.672Z"
+  },
+  {
+    "id": "NmZA6P74lifH",
+    "carId": "1kiOpatKmMZ-",
+    "title": "isiqlar",
+    "amount": 20,
+    "when": "2025-12-03",
+    "createdAt": "2025-12-04T17:17:31.883Z",
+    "updatedAt": "2025-12-04T17:17:31.883Z"
+  },
+  {
+    "id": "wGn10z6g8dtk",
+    "carId": "1kiOpatKmMZ-",
+    "title": "amarzatot",
+    "amount": 140,
+    "when": "2025-12-04",
+    "createdAt": "2025-12-04T17:20:32.433Z",
+    "updatedAt": "2025-12-04T17:20:32.433Z"
+  },
+  {
+    "id": "2GSrup7zpxPB",
+    "carId": "QjOSbG_ovT-K",
+    "title": "malyar",
+    "amount": 100,
+    "when": "2025-12-04",
+    "createdAt": "2025-12-04T17:21:09.439Z",
+    "updatedAt": "2025-12-04T17:21:09.439Z"
+  },
+  {
+    "id": "lgi75VlaBhjM",
+    "carId": "TjA1twyVgpfj",
+    "title": "top ",
+    "amount": 75,
+    "when": "2025-12-04",
+    "createdAt": "2025-12-04T17:25:34.592Z",
+    "updatedAt": "2025-12-04T17:25:34.592Z"
+  },
+  {
+    "id": "f_iMULoPBoNI",
+    "carId": "1kiOpatKmMZ-",
+    "title": "siqnal lenta",
+    "amount": 10,
+    "when": "2025-12-04",
+    "createdAt": "2025-12-04T17:26:16.192Z",
+    "updatedAt": "2025-12-04T17:26:16.192Z"
+  },
+  {
+    "id": "0ATvjrbyZowN",
+    "carId": "1kiOpatKmMZ-",
+    "title": "siqnal lenta",
+    "amount": 10,
+    "when": "2025-12-04",
+    "createdAt": "2025-12-04T17:26:16.773Z",
+    "updatedAt": "2025-12-04T17:26:16.773Z"
+  },
+  {
+    "id": "kUhsAP8vhECB",
+    "carId": "QjOSbG_ovT-K",
+    "title": "disk reng",
+    "amount": 90,
+    "when": "2025-12-04",
+    "createdAt": "2025-12-04T17:26:39.351Z",
+    "updatedAt": "2025-12-04T17:26:39.351Z"
+  },
+  {
+    "id": "pa_47kb5GUd7",
+    "carId": "4mLCAwYRo5LX",
+    "title": "demirci",
+    "amount": 80,
+    "when": "2025-12-04",
+    "createdAt": "2025-12-04T17:26:55.511Z",
+    "updatedAt": "2025-12-04T17:26:55.511Z"
+  },
+  {
+    "id": "SdfO9H-Voso5",
+    "carId": "pCAj8LookLv5",
+    "title": "bufer acki patrkel ve.s",
+    "amount": 300,
+    "when": "2025-12-04",
+    "createdAt": "2025-12-07T13:22:43.469Z",
+    "updatedAt": "2025-12-07T13:22:43.469Z"
+  },
+  {
+    "id": "CeBovkGKjYjJ",
+    "carId": "NDeJFUmEdvkP",
+    "title": "diaqnstika",
+    "amount": 30,
+    "when": "2025-12-05",
+    "createdAt": "2025-12-07T13:23:01.592Z",
+    "updatedAt": "2025-12-07T13:23:01.592Z"
+  },
+  {
+    "id": "QWXceq1CZ-og",
+    "carId": "1kiOpatKmMZ-",
+    "title": "malyar",
+    "amount": 30,
+    "when": "2025-12-07",
+    "createdAt": "2025-12-07T13:23:33.275Z",
+    "updatedAt": "2025-12-07T13:23:33.275Z"
+  },
+  {
+    "id": "KJwVKTFt4HLF",
+    "carId": "1kiOpatKmMZ-",
+    "title": "razal amarzator",
+    "amount": 45,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:26:10.107Z",
+    "updatedAt": "2025-12-07T13:26:10.107Z"
+  },
+  {
+    "id": "WXxebO85sOH7",
+    "carId": "PMcnyB9S4lTF",
+    "title": "mator paduska",
+    "amount": 40,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:26:27.781Z",
+    "updatedAt": "2025-12-07T13:26:27.781Z"
+  },
+  {
+    "id": "ApTHeSoEG-Ut",
+    "carId": "XtlmU8KIMg0J",
+    "title": "malyar",
+    "amount": 100,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:26:44.730Z",
+    "updatedAt": "2025-12-07T13:26:44.730Z"
+  },
+  {
+    "id": "o0LkpeXHJWug",
+    "carId": "4mLCAwYRo5LX",
+    "title": "malyar",
+    "amount": 150,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:27:11.058Z",
+    "updatedAt": "2025-12-07T13:27:11.058Z"
+  },
+  {
+    "id": "xCp6-o0KjRim",
+    "carId": "4mLCAwYRo5LX",
+    "title": "malyar",
+    "amount": 150,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:27:11.713Z",
+    "updatedAt": "2025-12-07T13:27:11.713Z"
+  },
+  {
+    "id": "_NiIoe_BoFOO",
+    "carId": "4mLCAwYRo5LX",
+    "title": "malyar",
+    "amount": 150,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:27:12.090Z",
+    "updatedAt": "2025-12-07T13:27:12.090Z"
+  },
+  {
+    "id": "UMLTnM4w68WM",
+    "carId": "NDeJFUmEdvkP",
+    "title": "zamiq",
+    "amount": 100,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:27:28.522Z",
+    "updatedAt": "2025-12-07T13:27:28.522Z"
+  },
+  {
+    "id": "9Z2If9E1NweS",
+    "carId": "QjOSbG_ovT-K",
+    "title": "avadanliqlar",
+    "amount": 190,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:27:54.592Z",
+    "updatedAt": "2025-12-07T13:27:54.592Z"
+  },
+  {
+    "id": "bzquvqdqye4j",
+    "carId": "AMAoEXGbKKv4",
+    "title": "avadanliqlar",
+    "amount": 315,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:28:24.510Z",
+    "updatedAt": "2025-12-07T13:28:24.510Z"
+  },
+  {
+    "id": "qsYQhp7g2Ei9",
+    "carId": "TjA1twyVgpfj",
+    "title": "guzgu",
+    "amount": 170,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:28:41.414Z",
+    "updatedAt": "2025-12-07T13:28:41.414Z"
+  },
+  {
+    "id": "EClJx7za4ann",
+    "carId": "5ydedSUacX3H",
+    "title": "sotka teker razval",
+    "amount": 80,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:29:01.183Z",
+    "updatedAt": "2025-12-07T13:29:01.183Z"
+  },
+  {
+    "id": "zBndNkXSfgjV",
+    "carId": "AMAoEXGbKKv4",
+    "title": "bufer",
+    "amount": 50,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:29:24.698Z",
+    "updatedAt": "2025-12-07T13:29:24.698Z"
+  },
+  {
+    "id": "0Y_1yPlJR32T",
+    "carId": "AMAoEXGbKKv4",
+    "title": "bufer",
+    "amount": 50,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:29:25.357Z",
+    "updatedAt": "2025-12-07T13:29:25.357Z"
+  },
+  {
+    "id": "8dbmq_V19Cyy",
+    "carId": "6AkIFQlF20JH",
+    "title": "cuxol",
+    "amount": 50,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:29:38.048Z",
+    "updatedAt": "2025-12-07T13:29:38.048Z"
+  },
+  {
+    "id": "qKHewyPZcTNd",
+    "carId": "NDeJFUmEdvkP",
+    "title": "yag nakladka",
+    "amount": 225,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:29:53.847Z",
+    "updatedAt": "2025-12-07T13:29:53.847Z"
+  },
+  {
+    "id": "_Q2bUpW-aaNo",
+    "carId": "NDeJFUmEdvkP",
+    "title": "yag nakladka",
+    "amount": 225,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:29:58.350Z",
+    "updatedAt": "2025-12-07T13:29:58.350Z"
+  },
+  {
+    "id": "6NNsiI42xUVD",
+    "carId": "XtlmU8KIMg0J",
+    "title": "malyar",
+    "amount": 120,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:30:17.790Z",
+    "updatedAt": "2025-12-07T13:30:17.790Z"
+  },
+  {
+    "id": "dY4bLdu6EpSj",
+    "carId": "XtlmU8KIMg0J",
+    "title": "demirci",
+    "amount": 20,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:30:46.019Z",
+    "updatedAt": "2025-12-07T13:30:46.019Z"
+  },
+  {
+    "id": "kKINJ1gI0ORw",
+    "carId": "XtlmU8KIMg0J",
+    "title": "demirci",
+    "amount": 20,
+    "when": "2025-12-06",
+    "createdAt": "2025-12-07T13:30:46.562Z",
+    "updatedAt": "2025-12-07T13:30:46.562Z"
+  },
+  {
+    "id": "UnFE4tGAlyRZ",
+    "carId": "QjOSbG_ovT-K",
+    "title": "usda ",
+    "amount": 12,
+    "when": "2025-12-07",
+    "createdAt": "2025-12-07T13:34:42.178Z",
+    "updatedAt": "2025-12-07T13:34:42.178Z"
+  },
+  {
+    "id": "iYx5KJB8fsOx",
+    "carId": "QjOSbG_ovT-K",
+    "title": "karopkanin pekeulctrari",
+    "amount": 35,
+    "when": "2025-12-07",
+    "createdAt": "2025-12-07T13:35:30.966Z",
+    "updatedAt": "2025-12-07T13:35:30.966Z"
+  },
+  {
+    "id": "eruQ2ts7BeOh",
+    "carId": "PMcnyB9S4lTF",
+    "title": "tokar",
+    "amount": 15,
+    "when": "2025-12-07",
+    "createdAt": "2025-12-07T13:35:52.261Z",
+    "updatedAt": "2025-12-07T13:35:52.261Z"
+  }
+]

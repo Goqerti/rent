@@ -1,0 +1,242 @@
+:root {
+  --bg: #f6f9ff;
+  --panel: #ffffff;
+  --muted: #4a5b78;
+  --text: #0b1a33;
+  --primary: #1e6fff;
+  --primary-600: #1a5ee8;
+  --primary-700: #164fc9;
+  --success: #28c76f;
+  --danger: #ef4444;
+  --warning: #f59e0b;
+  --border: #e4e9f5;
+  --ring: rgba(30, 111, 255, .35);
+  --radius: 16px;
+  --shadow: 0 8px 28px rgba(6, 24, 44, .08);
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  line-height: 1.5;
+}
+
+a { color: var(--primary); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.container { max-width: 1200px; margin: 0 auto; padding: 28px; }
+
+/* --- Navbar --- */
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  padding: 14px 20px;
+  background: linear-gradient(180deg, #ffffff 0%, #f7faff 100%);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  margin-bottom: 20px;
+}
+.nav a.logo {
+  font-weight: 800;
+  font-size: 1.2em;
+  letter-spacing: .3px;
+  margin-right: 6px;
+  color: var(--primary-700);
+}
+.nav a.tab {
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: #ffffff;
+  color: #0b1a33;
+  box-shadow: 0 2px 8px rgba(6, 24, 44, .06);
+  transition: all .15s ease;
+}
+.nav a.tab:hover { background: #f0f6ff; transform: translateY(-1px); }
+
+.nav a.tab.active, .nav a.tab[aria-current="page"] {
+  background: var(--primary); /* Əsas göy rəng */
+  color: #ffffff; /* Ağ mətn */
+  border-color: var(--primary-600);
+  font-weight: 600;
+  box-shadow: 0 4px 12px rgba(30, 111, 255, 0.3);
+  transform: translateY(-2px);
+}
+
+/* --- Layout & Cards --- */
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+.card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 24px;
+  box-shadow: var(--shadow);
+  margin-bottom: 20px;
+}
+.card h2 { margin: 0 0 12px; letter-spacing: .2px; }
+
+/* --- Form Elements --- */
+.form-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px; }
+.form-group.full-width { grid-column: 1 / -1; }
+label { font-size: 12px; color: var(--muted); font-weight: 600; letter-spacing: .2px; display: block; margin-bottom: 6px; }
+input, select, textarea {
+  width: 100%;
+  padding: 12px 14px;
+  background: #fff;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  transition: border-color .15s ease, box-shadow .15s ease;
+  font-size: 1em;
+}
+input[type=file] { padding: 8px; background: #fff; }
+input:focus, select:focus, textarea:focus {
+  outline: none;
+  border-color: #cfe0ff;
+  box-shadow: 0 0 0 4px var(--ring);
+}
+.searchbar { display: flex; gap: 8px; }
+
+/* --- Buttons --- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 11px 16px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  cursor: pointer;
+  color: #0b1a33;
+  background: #fff;
+  box-shadow: 0 4px 14px rgba(6, 24, 44, .06);
+  transition: transform .12s ease, box-shadow .12s ease, background .12s ease;
+  font-weight: 600;
+  text-decoration: none;
+}
+.btn:hover { transform: translateY(-1px); box-shadow: 0 6px 18px rgba(6, 24, 44, .08); background: #f8fbff; }
+.btn:active { transform: translateY(0); }
+.btn:disabled { opacity: .6; cursor: not-allowed; }
+.btn-primary { background: linear-gradient(180deg, #2a7bff 0%, var(--primary) 100%); border-color: #2e6ff0; color: #fff; }
+.btn-primary:hover { background: linear-gradient(180deg, #2f83ff 0%, #246cf8 100%); }
+.btn-success { background: linear-gradient(180deg, #2fda85 0%, var(--success) 100%); color: #00331e; border-color: #1fbf75; }
+.btn-danger { background: linear-gradient(180deg, #ff6b6b 0%, var(--danger) 100%); color: #fff; border-color: #ef4444; }
+.btn-sm { padding: 8px 12px; font-size: 0.9em; }
+
+/* --- Tables --- */
+.table { width: 100%; border-collapse: separate; border-spacing: 0 8px; margin-top: 10px; font-size: 14px; }
+.table thead th { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .6px; padding: 8px 12px; text-align: left; }
+.table tbody tr {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(6, 24, 44, .04);
+  transition: box-shadow 0.2s;
+}
+.table td, .table th { padding: 14px 12px; border-bottom: 0; }
+.table tbody tr:hover { box-shadow: 0 6px 16px rgba(6, 24, 44, .06); }
+
+/* --- Helper Classes --- */
+.pill, .status-booked, .status-active, .status-completed, .status-canceled {
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid #dbe6ff;
+  font-size: 12px;
+  background: #eef4ff;
+  color: #0a2d6e;
+  font-weight: 600;
+}
+.status-booked { background-color: var(--primary); color: white; border-color: var(--primary); }
+.status-active { background-color: var(--success); color: white; border-color: var(--success); }
+.status-completed { background-color: var(--muted); color: white; border-color: var(--muted); }
+.status-canceled { background-color: var(--danger); color: white; border-color: var(--danger); }
+
+.row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 14px; }
+.full-width { grid-column: 1 / -1; }
+.helper { color: var(--muted); font-size: 12px; }
+.divider { height: 1px; background: var(--border); margin: 20px 0; }
+.badge { font-size: 11px; padding: 6px 10px; border-radius: 999px; background: #eef4ff; border: 1px solid #dbe6ff; color: #0a2d6e; font-weight: 600; }
+
+/* --- Modals --- */
+.modal { position: fixed; inset: 0; background: rgba(11, 26, 51, .35); display: none; align-items: center; justify-content: center; padding: 20px; z-index: 1000; }
+.modal .sheet { background: #fff; border: 1px solid var(--border); border-radius: 18px; max-width: 560px; width: 100%; padding: 24px; box-shadow: var(--shadow); }
+.modal.show, .show { display: flex; }
+
+.hidden { display: none; }
+
+/* --- Ödəniş və Gecikmə Statusları üçün Rənglər --- */
+.table .unpaid td:first-child { border-left: 4px solid var(--danger); }
+.table .paid td:first-child { border-left: 4px solid var(--success); }
+.table .partially-paid td:first-child { border-left: 4px solid var(--warning); }
+.table tr.overdue { background-color: #fff1f1; }
+.table tr.overdue td:first-child { border-left-color: var(--danger); }
+
+/* --- Login Səhifəsi üçün Əlavə Stillər --- */
+.login-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+.login-panel {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    max-width: 960px;
+    width: 100%;
+    background: var(--panel);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+    border: 1px solid var(--border);
+}
+.login-form-section {
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.login-header h2 { font-size: 1.8em; margin-bottom: 10px; }
+.login-header p { color: var(--muted); margin-bottom: 30px; }
+.login-form-section .form-group { margin-bottom: 20px; }
+.login-form-section .btn.full-width { width: 100%; padding: 14px; font-size: 1.1em; margin-top: 10px; }
+.login-art-section {
+    background-image: url('/public/uploads/bmw.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.error-text { color: var(--danger); font-size: 0.9em; min-height: 20px; }
+
+/* --- Qeyd Bölməsi --- */
+.notes-section {
+    max-width: 960px;
+    width: 100%;
+    margin-top: 30px;
+    padding: 25px;
+    background-color: #eaf2ff;
+    border: 1px solid #cfe0ff;
+    border-radius: var(--radius);
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+.note-icon { flex-shrink: 0; color: var(--primary); }
+.note-icon img { width: 24px; height: 24px; }
+.note-content h3 { margin-top: 0; color: var(--primary-700); }
+.note-content p { margin-bottom: 0; color: var(--muted); font-size: 0.9em; }
+
+/* Kiçik ekranlar üçün uyğunlaşma */
+@media (max-width: 768px) {
+    .login-panel { grid-template-columns: 1fr; }
+    .login-art-section { display: none; }
+    .login-form-section { padding: 30px; }
+}

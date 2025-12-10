@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel - Daxil Ol</title>
+    <link rel="stylesheet" href="/public/common.css">
+</head>
+<body>
+    <div class="login-wrapper">
+        <div class="login-panel">
+            <div class="login-form-section">
+                <div class="login-header">
+                    <h2>Admin Panelə Daxil Ol</h2>
+                    <p>İdarəetmə sisteminə daxil olmaq üçün məlumatlarınızı daxil edin.</p>
+                </div>
+                
+                <form id="loginForm" autocomplete="on">
+                    <div class="form-group">
+                        <label for="username">İstifadəçi adı</label>
+                        <input id="username" type="text" placeholder="İstifadəçi adını daxil edin" autocomplete="username">
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Şifrə</label>
+                        <input id="password" type="password" placeholder="••••••••" autocomplete="current-password">
+                    </div>
+                    <p id="error-message" class="error-text"></p>
+                    <button id="btnLogin" type="submit" class="btn btn-primary full-width">Daxil Ol</button>
+                </form>
+
+                <div class="divider"></div>
+
+                <button class="btn secondary full-width" id="toggleCreateBtn">Yeni istifadəçi yarat</button>
+                
+                <div id="createSection" class="hidden" style="margin-top: 20px;">
+                    <h4>Yeni istifadəçi</h4>
+                    <form id="createForm">
+                        <div class="form-group">
+                            <label for="nUsername">Yeni İstifadəçi adı</label>
+                            <input id="nUsername" type="text" placeholder="user" autocomplete="username">
+                        </div>
+                        <div class="form-group">
+                            <label for="nPass">Yeni Şifrə</label>
+                            <input id="nPass" type="password" placeholder="parol" autocomplete="new-password">
+                        </div>
+                        <div class="form-group">
+                            <label for="nRole">Rol</label>
+                            <select id="nRole">
+                                <option value="operator">Operator</option>
+                                <option value="admin">Admin</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="ownerCode">Sahibkar Kodu</label>
+                            <input id="ownerCode" type="password" placeholder="Sahibkar kodunu daxil edin" autocomplete="off">
+                        </div>
+                         <p id="createMsg" class="error-text"></p>
+                        <button id="btnCreate" type="button" class="btn btn-success full-width">Yarat</button>
+                    </form>
+                </div>
+            </div>
+            <div class="login-art-section"></div>
+        </div>
+        <div class="notes-section">
+            <div class="note-icon">
+                <svg xmlns="" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15.5 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V8.5L15.5 3z"></path><polyline points="14 3 14 9 20 9"></polyline></svg>
+            </div>
+            <div class="note-content">
+                <h3>Code Storm AZ xəbərdarlıq</h3>
+                <p>Biz codestorm komandası olaraq daim sistem mühafizələrinizi edirik lakin son günlərdə daimi xaricdən olunan attacklara qarşı sizdən <br> xahişimiz odurki login parollarınız daima qorunsun və gizlədilsin 2 ci şəxslər tərəfindən istifadəsi qadağandır <br>Daima rəqəmsal dünyada özümüzü mühafizə edək <br> Hörmətlə Codestorm Team!.</p>
+            </div>
+        </div>
+    </div>
+    <script src="/public/auth.js"></script>
+</body>
+</html>

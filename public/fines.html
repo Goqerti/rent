@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cərimələr</title>
+    <link rel="stylesheet" href="/public/common.css">
+    <script>
+        (function checkAuthGuard() {
+            if (!localStorage.getItem('token')) {
+                window.location.replace('/public/login.html');
+            }
+        })();
+    </script>
+    <style>
+        .filter-bar {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        /* Ödəniş statusuna görə rənglər */
+        .table .unpaid td:first-child { border-left: 4px solid var(--danger); }
+        .table .paid td:first-child { border-left: 4px solid var(--success); }
+        .table .partially-paid td:first-child { border-left: 4px solid var(--warning); }
+    </style>
+</head>
+<body>
+    <div id="nav-placeholder"></div>
+    <div class="container">
+        <div class="card">
+            <h2>Cərimələrin Qeydiyyatı</h2>
+            <p>Sürücülərin yol hərəkəti qayda pozuntuları nəticəsində yaranan cərimələri burada qeyd edin.</p>
+
+            <form id="fineForm" class="form-grid">
+                <div class="form-group">
+                    <label for="carId">Maşın</label>
+                    <select id="carId" required>
+                        <option value="">Maşın seçin...</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="customerId">Müştəri</label>
+                    <select id="customerId" required>
+                        <option value="">Müştəri seçin...</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="amount">Məbləğ (AZN)</label>
+                    <input type="number" id="amount" step="0.01" required placeholder="Məs: 40.00">
+                </div>
+                <div class="form-group">
+                    <label for="points">Bal</label>
+                    <input type="number" id="points" placeholder="Məs: 3">
+                </div>
+                <div class="form-group">
+                    <label for="date">Cərimə Tarixi</label>
+                    <input type="date" id="date" required>
+                </div>
+                <div class="form-group full-width">
+                    <button type="submit" class="btn btn-primary">Cəriməni Əlavə et</button>
+                </div>
+            </form>
+
+            <div class="divider"></div>
+
+            <h3>Cərimələr Siyahısı</h3>
+            <div class="filter-bar">
+                <div>
+                    <label for="monthFilter">Ay:</label>
+                    <input type="month" id="monthFilter">
+                </div>
+                <span>və ya</span>
+                <div>
+                    <label for="dayFilter">Gün:</label>
+                    <input type="date" id="dayFilter">
+                </div>
+            </div>
+
+            <table class="table" id="finesTable">
+                <thead>
+                    <tr>
+                        <th>Tarix</th>
+                        <th>Müştəri</th>
+                        <th>Maşın</th>
+                        <th>Ümumi Məbləğ</th>
+                        <th>Ödənilən</th>
+                        <th>Status</th>
+                        <th>Əməliyyat</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="modal" id="editFineModal">
+        <div class="sheet">
+          <h3>Cərimə Ödənişini Redaktə Et</h3>
+          <input type="hidden" id="editFineId">
+          <div>
+            <label for="fineTotalAmount">Ümumi Məbləğ</label>
+            <input type="text" id="fineTotalAmount" disabled>
+          </div>
+          <div style="margin-top: 15px;">
+            <label for="amountPaid">Ödənilən Məbləğ (AZN)</label>
+            <input type="number" id="amountPaid" step="0.01" placeholder="Ödənilən məbləği daxil edin...">
+          </div>
+          <div class="divider"></div>
+          <div style="display:flex;gap:8px;justify-content:flex-end">
+            <button class="btn" id="closeModalBtn">Bağla</button>
+            <button class="btn btn-success" id="savePaymentBtn">Yadda saxla</button>
+          </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+    <script src="/public/nav.js"></script>
+    <script src="/public/fines.js"></script>
+</body>
+</html>
